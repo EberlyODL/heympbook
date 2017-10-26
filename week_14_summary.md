@@ -1,6 +1,7 @@
 Summary from Galileo to Galaxies:
+
 - Free fall times are the same for different mass objects if drag can be neglected.
-  - This is because mass also causes inertia and appears in the definition of momentum. So even though a more massive object feels a bigger gravitational force, it is also harder to make it move.
+- This is because mass also causes inertia and appears in the definition of momentum. So even though a more massive object feels a bigger gravitational force, it is also harder to make it move.
 - Newton's law of gravitation states that there is a universal attraction between every object with a mass. This force is proportional to the mass of each object and inversely proportional to the distance squared.
   - Near the surface of the Earth, the force of gravity is just $$F = mg$$ with $$g = 9.8 \; m/s^2$$. This is called weight. It should not be confused with mass. Weight is a force and the unit is Newton or pounds. Mass is in kg.
 - Einstein's theory of General Relativity eventually supplanted Newton's theory. The difference between the two theories is very small in our daily life but Einstein's theory does predict a few qualitatively new phenomena 
