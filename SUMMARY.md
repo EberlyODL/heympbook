@@ -33,7 +33,6 @@
     * [Creating Waves](creating_waves.md)
     * [Sound](sound.md)
     * [Newsflash 3](newsflash_3.md)
-    * [Week 3 Summary](week_3_summary.md)
     * [Light Waves](light-waves.md)
     * [Interlude](interlude_physics_as_an_experimental_science.md)
     * [Wave can Cancel or Reinforce](waves_can_cancel_or_reinforce.md)
