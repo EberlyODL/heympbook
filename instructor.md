@@ -1,4 +1,4 @@
-My name is Stephen Van Hook. I will introduce myself with more details on our first discussion board. I am looking forward to your introduction there as well. 
+My name is Stephen Van Hook. I will introduce myself with more details on our first discussion board. I am looking forward to your introduction there as well
 
 
 ## Orientation
