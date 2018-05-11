@@ -29,7 +29,7 @@ Note that up to now we used only 1 and 0, but of course we could have
 
 When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
 
-**Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole<lrn-math>^{*}</lrn-math> of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
+**Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
 
 - S: That's not too hard. I just multiply the number of atoms times the size per each atom like this <lrn-math>10^{23}</lrn-math> atoms <lrn-math>\times 10^{−10}</lrn-math> meter/per atom. That gives <lrn-math>10^{23−10}=10^{13}</lrn-math> meters.
 - M: Good! There is one last step. Whenever you are done with a calculation, you need to step back and think about your answer. What do you think of the number?
@@ -64,4 +64,5 @@ Extra help from Khan academy on math skills.
 1. basic of [scientific notation](http://youtu.be/i6lfVUp5RW8)
 2. [multiplying and dividing with scientific notation](http://youtu.be/497oIjqRPco)
 
-<lrn-math>^{*}</lrn-math>A mole is really <lrn-math>6 x 10^{23}</lrn-math>, but we are only focusing on the power of ten (i.e., the exponent).
+
+Note: A mole is really <lrn-math>6 x 10^{23}</lrn-math>, but we are just focusing on the power of ten (i.e., the exponent).
