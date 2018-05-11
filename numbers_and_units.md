@@ -24,12 +24,12 @@ If the number in the exponent is positive then there is no decimal. For example 
 
 Note that up to now we used only 1 and 0, but of course we could have
 
-3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.  
+3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.
 6 nanometers, which is <lrn-math>6 \times 10^{-9}</lrn-math> meters or 0.000000006 meters.
 
 When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
 
-**Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
+**Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole^{*} of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
 
 - S: That's not too hard. I just multiply the number of atoms times the size per each atom like this <lrn-math>10^{23}</lrn-math> atoms <lrn-math>\times 10^{−10}</lrn-math> meter/per atom. That gives <lrn-math>10^{23−10}=10^{13}</lrn-math> meters.
 - M: Good! There is one last step. Whenever you are done with a calculation, you need to step back and think about your answer. What do you think of the number?
@@ -52,10 +52,10 @@ Here is a good video from Derek of Veritasium reviewing many of the concepts we 
 Many choices are possible for the three basic units of length, mass and time:
 
 - Metric (SI, Système International) : **meter, kilogram, second**
-- English foot, slug , second
+- English foot, slug, second
 - and many others. . .
 
-We will use SI units in this course (SI stands for Systeme International), but it is useful to know conversions between systems for making estimates from your everyday knowledge.
+We will use SI units in this course (SI stands for Système International), but it is useful to know conversions between systems for making estimates from your everyday knowledge.
 
 ### External resources:
 
@@ -63,3 +63,5 @@ Extra help from Khan academy on math skills.
 
 1. basic of [scientific notation](http://youtu.be/i6lfVUp5RW8)
 2. [multiplying and dividing with scientific notation](http://youtu.be/497oIjqRPco)
+
+^{*}A mole is really 6 x 10^{23}, but we are only focusing on the power of ten (i.e., the exponent).
