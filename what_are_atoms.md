@@ -5,7 +5,7 @@ Richard Feynman, a well known physicist of the 20th century once said that if so
 
 > "All things are made of atoms--little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another”
 
-The idea of atoms goes back to the greek (Democratus). It took a really long time before the atomic theory was accepted. Now we are able to move and see single atoms at a time. 
+The idea of atoms goes back to the greek (Democratus). It took a really long time before the atomic theory was accepted. Now we are able to move and see single atoms at a time.
 
 ## What Are Atoms?
 
@@ -26,9 +26,9 @@ There are about 100,000,000,000,000,000,000,000 atoms in twenty grams of water (
 
 ## Atoms are Ageless
 
-Some atoms in your body are as old as the Universe, others were created in large supernovae explosions way before our sun even existed.  You continuously exchange atoms with the outside world (while you breath for example). Since there are as many atoms in your lungs as there are breaths of air in the atmosphere, it is almost certain that you have atoms inside your body right now that once belonged to Einstein, Gandhi or Newton. Atoms last forever, you don’t own them. 
+Some atoms in your body are as old as the Universe, others were created in large supernovae explosions way before our sun even existed.  You continuously exchange atoms with the outside world (while you breath for example). Since there are as many atoms in your lungs as there are breaths of air in the atmosphere, it is almost certain that you have atoms inside your body right now that once belonged to Einstein, Gandhi or Newton. Atoms last forever, you don’t own them.
 
-This begs the question - where do babies get their atoms to grow? They are not created in the womb, but come from the food the mother eats. Those atoms, are the same ones from the beginning of the universe! 
+This begs the question - where do babies get their atoms to grow? They are not created in the womb, but come from the food the mother eats. Those atoms, are the same ones from the beginning of the universe!
 
 Now, it is technically possible to create new atoms out of old ones by nuclear fusion (the sun transforms hydrogen into helium this way) or we can also destroy them via nuclear fission. For example, in nuclear reactors we break uranium into smaller parts. But both processes are hard to do and most atoms around you have been unchanged since the very beginning of the Universe!  We will learn more about nuclear fission and fusion later in this class.
 
@@ -48,13 +48,13 @@ This is easy to figure out. When you see a lightning outside. It often takes a w
 
 [ciscode|rev=1|tool=elmsmedia|item=802|entity_type=node|render=display_mode|display_mode=image__right__circle]
 
-Sophie (S): I know my parents told me when I was young.  For every 5 seconds between the lightning flash and the thunder, the storm is 1 mile away. 10 seconds delay, the storm is 2 miles away.  
+Sophie (S): I know my parents told me when I was young.  For every 5 seconds between the lightning flash and the thunder, the storm is 1 mile away. 10 seconds delay, the storm is 2 miles away. 
 Marie (M): That's right. This is because light travels super fast while sound is slower. From what your parents told you, you can determine the speed of sound.
 The last number is important to remember. And note that we approximate, we don’t care about being precise. There is approximately 5000 feet in a mile (really 5280 ) and approximately 3 feet in a meter (really 3.3 feet) .
 
 So if sound does 1 mile in 5 second. This is like 1000 feet in 1 second. About 330 meters per second.
 
-This is the speed of sound:  330 meters/s. We denote this to be 330 m/s
+This is the speed of sound:  330 meters/second. We denote this to be 330 m/s
 
 In daily life you often don’t need the precise numbers so we can approximate like this.
 
