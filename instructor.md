@@ -1,7 +1,5 @@
-My name is Dr. Stephen Van Hook. I will introduce myself with more details on our first discussion board. I am looking forward to your introduction there as well.
-
 [ciscode|rev=1|tool=elmsmedia|item=4390|entity_type=node|render=display_mode|display_mode=image]
-
+My name is Dr. Stephen Van Hook. I will introduce myself with more details on our first discussion board. I am looking forward to your introduction there as well.
 
 ## Orientation
 Everything you need each week can always be found on the homepage on Canvas. The course is divided into weekly lessons. Each weekly lessons will typically have: 
