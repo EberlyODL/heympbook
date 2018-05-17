@@ -11,6 +11,6 @@
 - You should be able to recognize the interference pattern of a single slit and a double slit and explain the physics behind those images.
 - When a wave is confined or constrained, only a discrete set of vibration modes are allowed. These are called standing waves. For the case of a string of length L pinned at both ends, or a tube, the wavelengths are:
 
-\(\lambda_n = \frac{2L}{n}\)
+<lrn-math>\(\lambda_n = \frac{2L}{n}\)</lrn-math>
 
 for n = 1, 2, 3, . . . where n is the harmonic number.
