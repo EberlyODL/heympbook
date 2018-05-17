@@ -6,6 +6,8 @@ The double slit experiment is a great example of wave interference.  This experi
 
 [ciscode|rev=1|tool=elmsmedia|item=1047|entity_type=node|render=display_mode|display_mode=image]</div></div>
 
+Where you see a bright spot, the light from the two slits constructively interfere (arrive at the same phase - e.g., both crests). Where it is dark between the bright spots, the light from the two slits destructively interfere (arrive at opposite phase - e.g., one wave is a crest and the other is a trough)
+
 - S: Pretty cool images. So physicists can calculate all of that?
 - M: Yes, and it's actually not very hard. The interference pattern is completely predicted. We can figure out the position of each bright and dark spots by just knowing the size and shape of the slits, the distance between them, and the wavelength of the incident wave.
 - S: Ok, that's pretty neat.
