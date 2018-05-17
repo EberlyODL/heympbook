@@ -5,7 +5,7 @@ So where do waves fit in this picture?
 [ciscode|rev=1|tool=elmsmedia|item=2096|entity_type=node|render=display_mode|display_mode=image]
 
 - M: There are many different type of waves: sound, waves in water, pulse on a string, light, and many more.
-- S It is hard to see what those things have in common.
+- S: It is hard to see what those things have in common.
 - M: Well that's what we do in physics—find out what is common to all things!
 - M: The basic definition of a wave is “It is a disturbance from equilibrium that propagates with time from one region of space to another."
 - M: In the slow motion movie below we see water which is made of a very large number of atoms. When a droplet falls on the surface it creates a disturbance which propagates away from where the droplet fell. That is the wave. If you have a single droplet falling, we get a single non-repeating disturbance. We call that a pulse. If your faucet was leaking a droplet every second, we would get a periodic repeating wave in the water.
@@ -14,11 +14,11 @@ So where do waves fit in this picture?
 
 [ciscode|rev=1|tool=elmsmedia|item=2098|entity_type=node|render=display_mode|display_mode=image]
 
-## Oscillations vs Waves 
+## Oscillations vs Waves
 
-- Oscillations: Something that oscillates back and forth 
+- Oscillations: Something that oscillates back and forth
   - Described by a period (T), a frequency (f) and an amplitude (A).
-- Wave: A type of oscillation (disturbance) that travels in space. 
+- Wave: A type of oscillation (disturbance) that travels in space.
   - Described by a period (T), a frequency (f) and an amplitude (A) like an oscillation
   - But also has a wavelength <lrn-math>\lambda</lrn-math> which is the distance between wave crests.
 
