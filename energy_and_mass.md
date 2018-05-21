@@ -36,5 +36,6 @@ For the energy, Einstein found the following relation, which should remind you o
 ### External Resources
 
 Minute Physics has a couple of nice videos regarding special relativity; have a look!
+
 * <a href="http://www.youtube.com/watch?v=NnMIhxWRGNw&list=PLED25F943F8D6081C&index=4&feature=plcp" target="_blank">Pythagorean Theorem for Energy</a>
 * <a href="http://www.youtube.com/watch?annotation_id=annotation_447492&feature=iv&index=1&list=PLED25F943F8D6081C&src_vid=hW7DW9NIO9M&v=ajhFNcUTJI0" target="_blank">Special Relativity</a>
