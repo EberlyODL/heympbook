@@ -30,7 +30,7 @@ Nobody knows why the Universe is 3+1 dimensional. We could have lived in a Unive
 
 ## Moving in space - Review
 
-Let us not think about time as a dimension for now and let us return to motion in space. We are interested in describing how objects move in space as a function of time. This means that the position coordinates x,y and z are really functions of time x(t), y(t) and z(t). That means only that your position can change as time passes (ie. you could have a velocity!). 
+Let us not think about time as a dimension for now and let us return to motion in space. We are interested in describing how objects move in space as a function of time. This means that the position coordinates x,y and z are really functions of time x(t), y(t) and z(t). That means only that your position can change as time passes (ie. you could have a velocity!).
 
 Let's imagine that we move at a constant velocity in some direction such that the velocity
 
