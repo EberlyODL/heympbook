@@ -41,4 +41,4 @@ In the video below, you can see static electricity in real life. The person reac
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/tuZxFL9cGkI?rel=0" width="420"></iframe>
 
- > Note that she was touching her shirt. Some electrons got rub off on her hand (either less or more electrons, we can't tell). A spark then occurs just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand on the car to discharge.
+ > Note that the spark that caused the fire occurred after she sat in her car - some charges probably transferred between her shirt & her car seat when she exited her car again. A spark then occurs just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand to something metal to discharge yourself before touching the gas nozzle.)
