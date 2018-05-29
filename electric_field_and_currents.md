@@ -30,13 +30,13 @@ The Leyden jar was probably one of the first capacitor in used. It was named aft
 
 When you discharge a capacitor, you get an electric current. The definition is simple
 
-<lrn-math>I = Q/\Delta <lrn-math>t
+<lrn-math>I = Q/\Delta t<lrn-math>
 
 The current <lrn-math>I</lrn-math> is the amount of charge Q (in Coulombs) passing some point per amount of time. The unit for current is called the Ampere (abbreviated Amp) and 1 Amp is equal to 1 Coulomb/s.
 
 - S: How many electrons does that represent?
 - M: Remember that the charge of an electron is <lrn-math>1.602\times10^{-19} C</lrn-math>. So 1 Coulomb/s (one amp) is <lrn-math>6.2 \times 10^{18}</lrn-math> electrons per seconds.
-- S: Woah! That's a lot!
+- S: Whoa! That's a lot!
 - M: Yes. But, remember, there are lots and lots of atoms (1 mole is <lrn-math>10^{23}</lrn-math>) and each atoms have multiple electrons. So, it's possible to get a current of 1 amp. In fact, this is a typical current in your house.
 - S: Yes. I guess. Don't breakers stop current bigger than 15 amps or something?
 - M: Yes, 15 amps is a dangerous current that can cause wire to burn and it is a fire hazard. This is why we have breakers to "break" the circuit when the current is too high.
