@@ -26,11 +26,11 @@ The battery still has a finite lifetime since the electrolyte and the metals hav
 
 As you well know, different batteries have different voltage.
 
-AAA, AA, C, D: 1.5 V  
-9 V: 9V  
-Lantern battery: 6 V  
-Car battery: 12 V  
-B battery: 18 V
+AAA, AA, C, D: 1.5 V 
+9 V: 9V 
+Lantern battery: 6 V 
+Car battery: 12 V 
+USB (e.g., your phone): 5 V
 
 Voltage is defined as Energy per unit of charge (Energy/charge) provided by the battery. Interestingly, The electron-volt(eV) is a unit for energy, which is just the charge e times 1 volt. 1 eV = <lrn-math>1.602 \times 10^{-19}</lrn-math> Joules, which is how much energy 1 electron gets from 1 Volt.
 
