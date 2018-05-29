@@ -35,4 +35,4 @@ So acceleration can also be positive or negative, because velocity has a directi
 
 <lrn-math>a = \frac{20 - (-20)}{4} = 10\; m/s^2</lrn-math>
 
-We will not use acceleration very much in this class. Instead we will use change in momentum which is really the same thing!
+We will not use acceleration very much in this class. Instead we will use change in momentum which is nearly the same thing - and more useful than acceleration for modern physics!
