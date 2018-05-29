@@ -30,7 +30,7 @@ The Leyden jar was probably one of the first capacitor in used. It was named aft
 
 When you discharge a capacitor, you get an electric current. The definition is simple
 
-<lrn-math>I = Q/\Delta t<lrn-math>
+<lrn-math>I = Q/\Delta t</lrn-math>
 
 The current <lrn-math>I</lrn-math> is the amount of charge Q (in Coulombs) passing some point per amount of time. The unit for current is called the Ampere (abbreviated Amp) and 1 Amp is equal to 1 Coulomb/s.
 
