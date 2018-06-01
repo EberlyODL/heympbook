@@ -19,4 +19,4 @@ As we saw, any object that has an electric charge will source an electric field 
 
 In a similar fashion, magnetism is due to the presence of a magnetic field and it is fairly easy to visualize. If you take a permanent bar magnet with a North and South pole. You put the bar under a piece of glass and you sprinkle some small iron particles, you get the picture in Fig 1. This clearly shows the presence of the magnetic field.
 
-We use the letter B to represent the magnetic field and just like the electric field it has a direction (for a bar magnet, the B field goes out of the north pole and into the south pole, see Fig 2). The magnitude of the (electric or magnetic) field is higher (i.e. more intense filed) where the field lines are denser.
+We use the letter B to represent the magnetic field and just like the electric field it has a direction (for a bar magnet, the B field goes out of the north pole and into the south pole, see Fig 2). The magnitude of the (electric or magnetic) field is higher (i.e. more intense field) where the field lines are denser.
