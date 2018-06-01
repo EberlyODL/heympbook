@@ -1,6 +1,6 @@
 The discovery of the electromagnetic wave by James Clerk Maxwell in 1861 cannot be overstated as an achievement in humankind's search for answers. In one stroke, Maxwell finalized our understanding of the electromagnetic theory, set the stage for Einstein to discover relativity, and discovered that the speed of the electromagnetic wave was exactly the speed of light, leading to the obvious connection that light itself is an electromagnetic wave.
 
-## One Wave with Many Names 
+## One Wave with Many Names
 
 Creating an electromagnetic wave is fairly easy, you just shake back and forth some electrons (this is what an antenna does). If you shake faster, you will generate a higher frequency wave.
 
@@ -12,7 +12,10 @@ For each corresponding frequency, we can find the corresponding wavelength <lrn-
 
 [ciscode|rev=1|tool=elmsmedia|item=2179|entity_type=node|render=display_mode|display_mode=image]
 
-The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave. 
+(http://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg, Creative Commons Attribution-Share Alike 3.0 Unported license.)
+
+
+The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave.
 
 The important thing to remember is that all of these seemingly different waves are really just one and the same type: the electromagnetic (E&M) wave.
 
