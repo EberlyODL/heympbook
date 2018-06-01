@@ -1,11 +1,11 @@
-The current coming out of the plug in the wall alternates direction. This is alternate current (AC).  In the US, the current and the voltage alternate between 170 V and -170 V (the minus sign means the polarity has changed and the electrons move in the other direction). It alternates with a frequency of 60 Hz so it goes through 60 cycles (back and forth) every seconds. The "effective" voltage that one gets from this kind of source is 120V.
+The current coming out of the plug in the wall alternates direction. This is alternating current (AC).  In the US, the voltage cycles between 170 V and -170 V (the minus sign means the polarity has changed and the electrons move - and thus the current flows - in the other direction). It alternates with a frequency of 60 Hz so it goes through 60 cycles (back and forth) every seconds. The "effective" voltage (a kind of average over the entire cycle) is 120 V.
 
 - S: But why, why is it this way? Why those numbers?
 - M: The reason the electric company sends you AC and not a direct current (called DC) with a fixed voltage is to save energy. The big advantage of AC current is that it can use a machine called the transformer.
 - S: The transformer? What is that?
-- M:It's pretty important, but we need to learn about magnetism first!
+- M: It's pretty important, but we need to learn about magnetism first!
 - S: Okay. And the numbers, 120 V and 60 Hz---is there any significance?
-- M: These are somewhat arbitrary. This is something we chose when we first constructed the grid. In Europe they used, 240 V and 50 Hz.
+- M: These are somewhat arbitrary. This is something we chose when we first constructed the grid. In Europe they use 240 V and 50 Hz.
 
 ## Magnetism and the Magnetic Field
 
