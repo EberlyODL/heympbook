@@ -1,4 +1,4 @@
-All the forces we have just discussed in examples are contact forces. The underlying cause and fundamental interaction behind contact forces is the electric force which we now turn to. 
+All the forces we have just discussed in examples are contact forces. The underlying cause and fundamental interaction behind contact forces is the electric force which we now turn to.
 
 Electricity is almost always caused by the movement of a single particle: the electron.
 
@@ -8,7 +8,7 @@ Electricity is almost always caused by the movement of a single particle: the el
 
 As far as we know the electron has no substructure (it is not made of anything else). It is a fundamental particle of Nature and it has the following properties:
 
-1. It has a mass of $m_e= 9.1 \times 10^{-31}$ kg
+1. It has a mass of <lrn-math>m_e= 9.1 \times 10^{-31}</lrn-math> kg
 2. It has an electric charge of -1e
 
 ## Electric Charge
@@ -17,7 +17,7 @@ The electromagnetic force acts on every particle that is charged. As we saw in w
 
 Experiments show that all charges that we see comes in integer units of an elementary charge _e_.
 
-$ e = 1.602\times10^{-19}$ Coulombs
+<lrn-math> e = 1.602\times10^{-19}</lrn-math> Coulombs
 
 where Coulombs is the unit for charge (name after a physicist called Coulomb). The electron really has a charge of -_e_ while the proton is +_e_ but we often just say -1 and +1 where the 1 means 1 unit of the elementary charge e.
 
@@ -34,11 +34,11 @@ This excess or lack of electrons in a material leads to static electricity. The 
 By doing experiments we determined the following properties of the electric force
 
 1. Like charges repulse while opposite charges attract.
-2. The electric force acts over long distance but gets weaker the farther we go.
+2. The electric force acts over long distance but gets weaker as the charges move farther away from one another.
 3. The electric force can easily be more important than gravity and lift objects.
 
 In the video below, you can see static electricity in real life. The person reacts very calmly (and correctly) when sparks from static electricity light the gas on fire!
 
 <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/tuZxFL9cGkI?rel=0" width="420"></iframe>
 
- > Note that she was touching her shirt. Some electrons got rub off on her hand (either less or more electrons, we can't tell). A spark then occurs just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand on the car to discharge.
+ > Note that the spark that caused the fire occurred after she sat in her car - some charges probably transferred between her shirt & her car seat when she exited her car again. A spark then occurs just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand to something metal to discharge yourself before touching the gas nozzle.)
