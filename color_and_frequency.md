@@ -11,6 +11,8 @@ In a radio antenna, we shake the electron at a frequency of $10^4$ Hz. This is 1
 For each corresponding frequency, we can find the corresponding wavelength $\lambda = c/f$. For radio, the wavelength is about 1 km while for visible light it is about $0.5\mu m$ (where $\mu m = 10^{-6}\; m$). Look at fig "spectrum" below to get an idea of the range of electromagnetic waves.
 
 [ciscode|rev=1|tool=elmsmedia|item=2179|entity_type=node|render=display_mode|display_mode=image]
+(http://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg, Creative Commons Attribution-Share Alike 3.0 Unported license.)
+
 
 The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave. 
 
