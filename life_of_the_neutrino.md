@@ -6,7 +6,7 @@ Hello World! My name is the electron neutrino and my symbol is $\nu_e$. I have t
 
 - $\nu_e$: So, I just wanted to introduce myself. I think you may not know much about me but I am all around you all the time. The sun emits light, as you know and see, but it also emits me, the electron neutrino. In fact, from the sun alone, there is about $2\times 10^{14}$ neutrinos going through your body every second.
 - S: Really?
-- $\nu_e$: Yes really. Count 1 s. Zip $10^{14}$ neutrinos went through. It does not matter where the sun is (during the night, we go through the Earth an then through you).
+- $\nu_e$: Yes really. Count 1 s. Zip $10^{14}$ neutrinos went through. It does not matter where the sun is (during the night, we go through the Earth and then through you).
 - S: Ok this is really strange. Why have I not heard about you before?
 - $\nu_e$: This is a bit shameful. You see, we don't like to interact with anybody very much. We just pass through everything and we very, very, very rarely stop to enjoy the sights.
 - S: So what's the point of having three neutrinos?
