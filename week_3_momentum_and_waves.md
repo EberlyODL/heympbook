@@ -11,7 +11,7 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 * LOPW04: describe the basic features of the sound wave.
 
-* LOPW05	understand how speed of sound can change and how this can lead to bending of wave.
+* LOPW05: understand how speed of sound can change and how this can lead to bending of wave.
 
 
 ## News Article
