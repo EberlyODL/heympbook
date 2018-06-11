@@ -2,11 +2,11 @@ Very often, huge technological breakthroughs are pushed forward after physicists
 
 Historically, it often goes the other way around. Sometimes, a technology is invented first and this technology allows a whole new set of experiments which then lead to breakthrough in our fundamental understanding of Nature.
 
-One invention that had great impact on physics is the Crookes tube depicted in Fig "Crookes Tube".
+One invention that had great impact on physics is the Crooke's tube depicted in Fig "Crookes Tube".
 
 [ciscode|rev=1|tool=elmsmedia|item=2197|entity_type=node|render=display_mode|display_mode=image__left]
 
-A Crookes tube is a vacuum glass tube in which we place two pieces of metal that we connect to opposite end of a battery. The metal that is connected to the negative part of the battery is called the cathode while the positive metal plate is the anode (see Fig. "Schematic"). If we were to connect the cathode to the anode, we would have a simple circuit which connects two ends of battery to each other. This would result in an electric current.
+A Crooke's tube is a vacuum glass tube in which we place two pieces of metal that we connect to opposite end of a battery. The metal that is connected to the negative part of the battery is called the cathode while the positive metal plate is the anode (see Fig. "Schematic"). If we were to connect the cathode to the anode, we would have a simple circuit which connects two ends of battery to each other. This would result in an electric current.
 
 Because the cathode and anode are not touching (and there is a vacuum between them), we do not expect any current.
 
@@ -14,7 +14,7 @@ Because the cathode and anode are not touching (and there is a vacuum between th
 
 Interestingly, early experimentalist found that if the electric potential difference between anode and cathode was large enough (and if the vacuum was good enough), a beam of green light was emitted from the cathode. The beam could be collimated to be circular as shown in Fig "Schematic". If an object was placed in front the beam, the object would cast a shadow (see the cross in Fig "Crookes Tube).
 
-This was a big mystery at the time. At the end of the 20<sup>th</sup> century, doing experiments with Crook's tubes was the hottest topic in physics.
+This was a big mystery at the time. At the end of the 19<sup>th</sup> century, doing experiments with Crooke's tubes was the hottest topic in physics.
 
 We could do a whole class just on this time period of physics! Among the physics discoveries made with the tubes were the following two important ones.
 
