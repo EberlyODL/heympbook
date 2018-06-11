@@ -11,6 +11,6 @@ Newton's laws in terms of momentum:
 2. **If a force acts on a particle it changes its momentum**.
 3. **Momentum is conserved.**
 
-A constant force F applied over an interval of time \(\Delta t\) changes the momentum by the amount   
-  $F\Delta t = \Delta p$
+A constant force F applied over an interval of time <lrn-math>(\Delta t)<\lrn-math> changes the momentum by the amount   
+  <lrn-math>F\Delta t = \Delta p<\lrn-math>
   
