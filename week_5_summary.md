@@ -6,5 +6,5 @@
   - Length Contraction: lengths get shorter when you go fast
   - Mass increases when you go fast (from the book)
   - Mass and energy are one and the same.
-- The formula for energy is <lrn-math>E^2 = m^2 c^4 + p^2 c^2<\lrn-math>. If you have no momentum (i.e., if you are not moving and <lrn-math>p=0<\lrn-math>) then this is just the famous formula <lrn-math>E = mc^2<\lrn-math>.
-- c is the symbol for the speed of light in vacuum. <lrn-math> c = 299,792,458 \; m/s<\lrn-math>
+- The formula for energy is <lrn-math>E^2 = m^2 c^4 + p^2 c^2</lrn-math>. If you have no momentum (i.e., if you are not moving and <lrn-math>p=0</lrn-math>) then this is just the famous formula <lrn-math>E = mc^2</lrn-math>.
+- c is the symbol for the speed of light in vacuum. <lrn-math> c = 299,792,458 \; m/s</lrn-math>

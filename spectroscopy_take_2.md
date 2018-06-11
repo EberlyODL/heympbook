@@ -8,7 +8,7 @@ Only some special frequencies will be absorbed (Fig. "Absorption Spectrum"). If 
 
 [ciscode|rev=1|tool=elmsmedia|item=916|entity_type=node|render=display_mode|display_mode=image]
 
-These black lines are the lines of absorption. They are also called spectral lines. Spectroscopy is the science of identifying atoms by their spectral lines. These lines are determined by the energy formula, and this formula is different for each atom. For hydrogen it is <lrn-math>E_1 = -\frac{13.6\;\rm{eV}}{n^2}<\lrn-math> but for other atoms it gets more complicated. This spectrum of lines is unique and they can be used as a spectral fingerprint that allows us to determine which atoms are in a sample.
+These black lines are the lines of absorption. They are also called spectral lines. Spectroscopy is the science of identifying atoms by their spectral lines. These lines are determined by the energy formula, and this formula is different for each atom. For hydrogen it is <lrn-math>E_1 = -\frac{13.6\;\rm{eV}}{n^2}</lrn-math> but for other atoms it gets more complicated. This spectrum of lines is unique and they can be used as a spectral fingerprint that allows us to determine which atoms are in a sample.
 
 ## Everyone Wants to Go to Their Ground State 
 
