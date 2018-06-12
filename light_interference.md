@@ -1,6 +1,6 @@
 In lab #1, you showed that the interference pattern from the double slit experiment is evidence of the notion that light must be a wave. The pattern of dark and bright spots that one gets after a light wave goes through a slit or two slits is impossible to explain if light is just made of particles.
 
-[ciscode|rev=1|tool=elmsmedia|item=943|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=4392|entity_type=node|render=display_mode|display_mode=image]
 
 Lets take a second look at interference and learn some more terms.
 
