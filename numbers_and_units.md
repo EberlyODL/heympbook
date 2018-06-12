@@ -36,7 +36,7 @@ When you multiply or add large numbers in exponential forms, you just add or sub
 - S: Hmm. . . It's large.
 - M: Indeed, it's huge! The line would stretch 10,000 times around the whole circumference of the Earth. Yet you have many, many moles of water molecule in a glass water, how does that make sense?
 - S: I guess the atoms are not on a line in my glass of water.
-- M: Indeed, and they are not touching that close, and they are bigger. It's really important to think about numbers and their meaning in physics. And with the really big and really small ones, it can be very hard to visualize them!
+- M: Indeed, and they are not touching that close, and they are bigger. To figure out how many atoms are in your water you'd have to think about the volume of the water - length times width times height, each of those dimensions can fit a large number of atoms. Multiplying the number of atoms in the length times number of atoms in the width times the number of atoms in the height give you that big number! It's really important to think about numbers and their meaning in physics. And with the really big and really small ones, it can be very hard to visualize them!
 
 ### A Sense of Scale
 
