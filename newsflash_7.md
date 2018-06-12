@@ -2,6 +2,8 @@ This weeks Newsflash is about the usefulness of the photoelectric effect. The ph
 
 <a href="http://www.sciencedaily.com/releases/2013/05/130506094511.htm" target="_blank">Recent Progress in Solar Cell Technology</a>
 
+<a href="http://news.psu.edu/story/468625/2017/05/17/research/solar-power-people" target="_blank">Global Significance of Recent Progress in Solar Cell Technology</a>
+
 Solar cell technology is a field of very active research nowadays. If we average over the full surface of the planet, we find that the sun gives us about 164 Watts of power per square meter.
 
 There is a lot of energy to be gathered from the sun!
