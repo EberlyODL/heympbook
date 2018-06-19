@@ -3,8 +3,8 @@
 By the end of the week you will be able to
 
 * LOQua01: translate the intensity pattern of light into probabilities of finding photons.
-* LOQua09: explain the basic ideas behind complementary. 
-* LOQua10: apply quantum ideas for a simple Qbit with an interferometer of photons. 
+* LOQua09: explain the basic ideas behind complementary.
+* LOQua10: apply quantum ideas for a simple Qbit with an interferometer of photons.
 
 
 ## News Article
