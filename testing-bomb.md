@@ -49,7 +49,7 @@ The next photon arrives in D1. You turn to your manager, this bomb is working!
 
 Note that the photon never triggered the bomb but the fact that it could have done so was enough to destroy the interference effect and allow the photon to go to D1. The photon was in a superposition of upper and lower beam and this superposed state knew about the bomb even though it never triggered it (it had 50% chance of doing so).
 
-**If you are not seriously perplexed by this. Reread this page again.**
+**If you are not seriously perplexed by this, you should read this page again.**
 
 > If the photon lands in D0 a 100 times, you can tell your manager. There is a very good chance that this bomb is a dud.
 
