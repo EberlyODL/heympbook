@@ -30,15 +30,15 @@ One can show mathematically, that in order to localize a wave in space (a wavepa
 
 > **The more precisely we know the position, the more uncertain we are about the momentum.**
 
-This is not magic, it is just a property of waves. To create a localized wavepacket with small uncertainty in position we need to sum multiple oscillatory waves of different wavelength, making the range of momentum uncertain. 
+This is not magic, it is just a property of waves. To create a localized wavepacket with small uncertainty in position we need to sum multiple oscillatory waves of different wavelength, making the range of momentum uncertain.
 
 [ciscode|rev=1|tool=elmsmedia|item=2262|entity_type=node|render=display_mode|display_mode=h5p]
 
-## Complementary
+## Complementarity
 
-This is also another example of complementary in quantum mechanics. You should remember that when we discussed photons, it was impossible to measure which slits they went through at the same time as measuring the interference pattern. You either measured one or the other. 
+This is also another example of complementarity in quantum mechanics. You should remember that when we discussed photons, it was impossible to measure which slits they went through at the same time as measuring the interference pattern. You either measured one or the other.
 
-We have a similar situation here, we cannot measure position and momentum at the same time. If we know the position, the uncertainty <lrn-math>\Delta x</lrn-math> will be very small, the wavepacket will be very localized but then the uncertainty on momentum will be very large and the speed will be unknown. 
+We have a similar situation here, we cannot measure position and momentum at the same time. If we know the position, the uncertainty <lrn-math>\Delta x</lrn-math> will be very small, the wavepacket will be very localized but then the uncertainty on momentum will be very large and the speed will be unknown.
 
 [ciscode|rev=1|tool=elmsmedia|item=2605|entity_type=node|render=display_mode|display_mode=image]
 
