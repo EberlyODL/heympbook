@@ -9,7 +9,7 @@ Notice that we have defined the potential energy U to be always negative. This i
 [ciscode|rev=1|tool=elmsmedia|item=920|entity_type=node|render=display_mode|display_mode=image]
 
 
-## Quantization and the Binding Energy of Hydrogen 
+## Quantization and the Binding Energy of Hydrogen
 
 The electron is bound to the atom just like the electron was bound to be in the box that we discussed last week. The shape of the box is different now but the basic idea is the same.
 
@@ -24,13 +24,13 @@ Physicists can solve exactly for the standing wave solutions. Because the soluti
 [ciscode|rev=1|tool=elmsmedia|item=921|entity_type=node|render=display_mode|display_mode=image]
 
 
-Instead of showing you the wave, we will show you the square of the amplitude of the wave (see Fig "Electron Wavefunction for Hydrogen"). I remind you again that this picture shows you where the electron is most likely to be found, not where it is.
+Instead of showing you the wave, we will show you the amplitude of the wavefunction (see Fig "Electron Wavefunction for Hydrogen"). I remind you again that this picture shows you where the electron is most likely to be found, not where it is. (Note: the two colors indicate the phase of the wavefunction - the blue and orange regions have opposite phase [sign] of one another.)
 
 [ciscode|rev=1|tool=elmsmedia|item=924|entity_type=node|render=display_mode|display_mode=image]
 
 Because, we are in three dimensions, there are three quantum numbers (three integers), n, l and m. In this class, we will simplify and only keep track of **n, which we call the level**.
 
-### External Resources. 
+### External Resources.
 
 - <a href="http://io9.com/the-first-image-ever-of-a-hydrogen-atoms-orbital-struc-509684901" target="_blank">The First Image Ever of a Hydrogen Atom's Orbital Structure</a>
 An image of the orbital of the hydrogen atom!
