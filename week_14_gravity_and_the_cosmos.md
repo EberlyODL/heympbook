@@ -11,9 +11,6 @@ The objectives for this lesson are that by the end of the week you will be able 
 ## NewsFlash
 The detection of gravitational waves!
 
-<a href="http://www.newscientist.com/article/dn13579-gravitational-wave-detectors-to-get-major-upgrade.html?full=true&print=true"
-target="_blank">Advanced LIGO and Gravitational Waves</a>
-
 <a href="https://www.ligo.caltech.edu/news/ligo20160211" target="_blank">Press Release of the first direct detection!</a>
 
 Since this first detection - there have been 5 more published detections, the most recent wave detected was <a href="https://www.ligo.org/detections/GW170608.php" target="_blank">Nov 15, 2017</a>. And the excitement is continuing!
