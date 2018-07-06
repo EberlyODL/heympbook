@@ -4,16 +4,16 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 * LOFor08: identify the important scaling relationships in Newton's law of gravity.
 * LOFor09: note some differences between Newton's theory and Einstein's theory of General Relativity
-* LOFor10: explain how gravity influences satellites, orbits, and weight 
+* LOFor10: explain how gravity influences satellites, orbits, and weight
 * LOPW13: describe the Doppler effect.
 * LOCos01: identify and name different orbits around the Earth
 
 ## NewsFlash
 The detection of gravitational waves!
 
-<a href="http://www.newscientist.com/article/dn13579-gravitational-wave-detectors-to-get-major-upgrade.html?full=true&print=true" 
+<a href="http://www.newscientist.com/article/dn13579-gravitational-wave-detectors-to-get-major-upgrade.html?full=true&print=true"
 target="_blank">Advanced LIGO and Gravitational Waves</a>
 
 <a href="https://www.ligo.caltech.edu/news/ligo20160211" target="_blank">Press Release of the first direct detection!</a>
 
-Since this first detection - there have been 3 more published detections, the most recent wave detected was Aug 14, 2017. And the excitement is continuing! 
+Since this first detection - there have been 5 more published detections, the most recent wave detected was <a href="https://www.ligo.org/detections/GW170608.php" target="_blank">Nov 15, 2017</a>. And the excitement is continuing!
