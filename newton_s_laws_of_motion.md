@@ -17,7 +17,7 @@ This law essentially defined the notion of an inertial reference frame as we dis
 
 > _An unbalanced force causes an object to accelerate. This is often mathematically expressed by_
 > 
-> _<lrn-math>F= ma</lrn-math>. The force which is moving an object equals the mass of the object times its acceleration._
+> _<lrn-math>F= ma</lrn-math>. The force which is causing an object to change its movement equals the mass of the object times its acceleration._
 
 Acceleration measures the change in velocity per unit of time. Remember: change is written using the <lrn-math>\Delta</lrn-math> symbol which means the difference between the end and beginning.
 
@@ -27,7 +27,7 @@ Here's the breakdown of that equation:
 
 The time interval between some initial time <lrn-math>t_i</lrn-math> and some final time <lrn-math>t_f</lrn-math> is expressed as <lrn-math>\Delta t = t_f -t_i</lrn-math>.
 
-During this time interval, the speed of the object may change from initial value <lrn-math>v_i</lrn-math> to some final value <lrn-math>v_f</lrn-math>. Again the change in velocity is <lrn-math>\Delta v = v_f-v_i</lrn-math>. **Remember that velocity has a sign, negative if you move left or positive if you move right.**
+During this time interval, the velocity of the object may change from initial value <lrn-math>v_i</lrn-math> to some final value <lrn-math>v_f</lrn-math>. Again the change in velocity is <lrn-math>\Delta v = v_f-v_i</lrn-math>. **Remember that velocity has a sign, negative if you move left or positive if you move right.**
 
 
 
