@@ -2,7 +2,7 @@ Very often, huge technological breakthroughs are pushed forward after physicists
 
 Historically, it often goes the other way around. Sometimes, a technology is invented first and this technology allows a whole new set of experiments which then lead to breakthrough in our fundamental understanding of Nature.
 
-One invention that had great impact on physics is the Crookes tube depicted in Fig "Crookes Tube".
+One invention that had great impact on physics is the Crooke's tube depicted in Fig "Crooke's Tube".
 
 [ciscode|rev=1|tool=elmsmedia|item=2197|entity_type=node|render=display_mode|display_mode=image__left]
 
@@ -12,9 +12,9 @@ Because the cathode and anode are not touching (and there is a vacuum between th
 
 [ciscode|rev=1|tool=elmsmedia|item=2199|entity_type=node|render=display_mode|display_mode=image__right]
 
-Interestingly, early experimentalist found that if the electric potential difference between anode and cathode was large enough (and if the vacuum was good enough), a beam of green light was emitted from the cathode. The beam could be collimated to be circular as shown in Fig "Schematic". If an object was placed in front the beam, the object would cast a shadow (see the cross in Fig "Crookes Tube).
+Interestingly, early experimentalist found that if the electric potential difference between anode and cathode was large enough (and if the vacuum was good enough), a beam of green light was emitted from the cathode. The beam could be collimated to be circular as shown in Fig "Schematic". If an object was placed in front the beam, the object would cast a shadow (see the cross in Fig "Crooke's Tube).
 
-This was a big mystery at the time. At the end of the 20<sup>th</sup> century, doing experiments with Crook's tubes was the hottest topic in physics.
+This was a big mystery at the time. At the end of the 19<sup>th</sup> century, doing experiments with Crooke's tubes was the hottest topic in physics.
 
 We could do a whole class just on this time period of physics! Among the physics discoveries made with the tubes were the following two important ones.
 
@@ -23,4 +23,4 @@ We could do a whole class just on this time period of physics! Among the physics
 
 We will not discuss the details of these two interesting discoveries in this class but feel free to look into this more yourself if you are interested.
 
-Note that Crookes tubes are the early predecessor of cathode ray tubes used for early TV screens!
+Note that Crooke's tubes are the early predecessor of cathode ray tubes used for early TV screens!

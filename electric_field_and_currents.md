@@ -13,7 +13,7 @@ To find the electric force felt by an object with some electric charge q (positi
 
 ## Circuits
 
-The reason electricity is so important in our daily life, is because we have so much control over it. In some materials, we can easily free the electrons out of the individual atoms and make them move. These are **conductor** and a good example is copper. In other materials, the electrons are completely stuck and it is very hard to make them move. These are **insulators** and a good example is diamond.
+The reason electricity is so important in our daily life, is because we have so much control over it. In some materials, we can easily free the electrons out of the individual atoms and make them move. These are **conductors** and a good example is copper. In other materials, the electrons are completely stuck and it is very hard to make them move. These are **insulators** and a good example is diamond.
 
 We have through the years invented all sorts of circuit elements that are now the basis of all electronics. It all started with the **capacitor**.
 

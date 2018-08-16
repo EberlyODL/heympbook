@@ -9,6 +9,8 @@ By the end of the week you will be able to
 
 ## News Article
 
-<a href="http://www.sciencedaily.com/releases/2013/05/130506094511.htm" target="_blank">Recent Progress in Solar Cell Technology</a>
+<a href="http://news.psu.edu/story/468625/2017/05/17/research/solar-power-people" target="_blank">Global Significance of Recent Progress in Solar Cell Technology</a>
+
+
 
 This week there will also be your second lab, on the photoelectric effect.
