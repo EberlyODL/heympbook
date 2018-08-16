@@ -29,7 +29,7 @@ The important thing to remember is that all of these seemingly different waves a
 - M: Well then, it's true, we only see a very, very small fraction of all the E&M ripples out there. As you can you see in the fig "sensing". We are all very much blind and deaf!
 
 [ciscode|rev=1|tool=elmsmedia|item=2181|entity_type=node|render=display_mode|display_mode=image]
-
+Source: http://abstrusegoose.com/421
 ## Color
 
 Even in the small range of frequencies and wavelengths that we can detect, the visible spectrum, we can make further subdivision. Our eyes can detect the differences between a light wave of 600 nm versus 400 nm where (1 nm = 1 nanometer = <lrn-math>10^{-9}</lrn-math> m) and these differences are interpreted in our brain as different colors. Below is the spectrum of visible light:
