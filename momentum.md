@@ -47,7 +47,7 @@ The momentum of the car if you are moving to the right is
 
 Moving to the left it would be
 
- <lrn-math>p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s<lrn-math>
+ <lrn-math> p=mv= (1000\;kg) \times (-25\;m/s) = -2500\;kg\;m/s </lrn-math>
 
 There is no special name for the unit of momentum. We just carry the whole kilogram times meters per second \(kg m/s\) around and yes this is a mouthful.
 
