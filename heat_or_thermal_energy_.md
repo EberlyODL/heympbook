@@ -19,8 +19,8 @@ Temperature is the measure of the kinetic energy of atoms \(the random kinetic e
 
 Units of temperature are degree Celsius \(˚C\) or degree Fahrenheit \(˚F\). We don't need to know how to go from one to the other but it is good to remember the following basic temperature in both Celsius and Fahrenheit.
 
-* freezing of water: <lrn_math>T\_c =0 </lrn_math> ˚C and <lrn_math>T\_f =32 </lrn_math> ˚F
-* boiling of water: <lrn_math> T\_c =100</lrn_math> ˚C and <lrn_math> T\_f =212</lrn_math> ˚F.
+* freezing of water: <lrn_math>T_{c} =0 </lrn_math> ˚C and <lrn_math>T_{f} =32 </lrn_math> ˚F
+* boiling of water: <lrn_math> T_{c} =100</lrn_math> ˚C and <lrn_math> T_{f} =212</lrn_math> ˚F.
 
 ### Conduction
 
