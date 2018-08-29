@@ -16,7 +16,7 @@ This means that the cannon must recoil with equal momentum that the ball took wi
 
 As you can see from the figure above. We must have that
 
-<lrn-math>p\_b +p\_c = 0</lrn-math>
+<lrn-math>p_{b} +p_{c} = 0</lrn-math>
 
 This is what recoil is. We started with zero momentum, we split the system in two parts and one moves left \(say\), the other must move right with a momentum equal in magnitude \(but opposite in direction\).
 
