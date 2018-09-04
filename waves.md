@@ -26,4 +26,4 @@ A wave varies in space with wavelength <lrn-math>\lambda</lrn-math>. A plot of a
 
 [ciscode|rev=1|tool=elmsmedia|item=2100|entity_type=node|render=display_mode|display_mode=image]
 
-The wavelength is the distance between peaks. <lrn-math>y_{max}</lrn-math> is the amplitude. **Note that position, x, not the time, is on the horizontal axis.** This is important not to confuse this figure ("Graphical Representation of Wave") with the oscillation graph ("Graph of an Oscillatory Motion").
+In the picture above,  <lrn-math>y_{max}</lrn-math> is the amplitude. The wavelength is the distance between peaks. **Note that position, x, not the time, is on the horizontal axis.** This is important not to confuse this figure ("Graphical Representation of Wave") with the oscillation graph ("Graph of an Oscillatory Motion").
