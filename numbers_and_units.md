@@ -43,8 +43,8 @@ When you multiply or add large numbers in exponential forms, you just add or sub
 To get a sense of scale and how big and small things compare, look at the following web resources. The [ Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
 
 Here is a good video from Derek of Veritasium reviewing many of the concepts we have just discussed regarding scientific notation followed by an order of magnitude question.
-[ciscode|rev=1|tool=elmsmedia|item=2065|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
-
+[ciscode|rev=1|tool=elmsmedia|item=2065|entity_type=node|render=display_mode|display_mode=mediasvg__left__medium__lightboxed]
+The direct hyperlink to the Youtube video is https://www.youtube.com/watch?time_continue=3&v=57z0NIPAtpo 
 <iframe src="https://h5p.org/h5p/embed/106456" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Systems of Units
