@@ -10,7 +10,7 @@ And this is the demo for the double slit:
 
 ### Double slit pattern
 
-[ciscode|rev=1|tool=elmsmedia|item=2122|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=2122|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 - S: Pretty cool images. So physicists can calculate all of that?
 - M: Yes, and it's actually not very hard. The interference pattern is completely predicted. We can figure out the position of each bright and dark spots by just knowing the size and shape of the slits, the distance between them, and the wavelength of the incident wave.
