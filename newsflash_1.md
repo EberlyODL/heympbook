@@ -12,5 +12,4 @@ Newsflash 1, read this article and answer the questions below:
 ### External Resources. 
 
 - The world's smallest movie!
-
-[ciscode|rev=1|tool=elmsmedia|item=2066|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
+[ciscode|rev=1|tool=elmsmedia|item=4707|entity_type=node|render=display_mode|display_mode=mediavideo]
