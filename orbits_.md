@@ -4,7 +4,7 @@ If you launch a projectile on the surface of the Earth, you get a nice parabolic
 
 [ciscode|rev=1|tool=elmsmedia|item=887|entity_type=node|render=display_mode|display_mode=image]
 
-In order to stay in orbit, the object needs move fast. The closer the orbit to the surface of the planet, the faster you need to go. The orbital velocity can be figured out using Newton's law of gravity. The formula is the following
+In order to stay in orbit, the object needs to move fast. The closer the orbit to the surface of the planet, the faster you need to go. The orbital velocity can be figured out using Newton's law of gravity. The formula is the following
 
 <lrn-math>v^2 = \frac{G M}{r}</lrn-math>
 
