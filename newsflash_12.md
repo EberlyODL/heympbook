@@ -2,9 +2,6 @@
 
 * Detection of gravitational waves!
 
-<a href="http://www.newscientist.com/article/dn13579-gravitational-wave-detectors-to-get-major-upgrade.html?full=true&print=true" 
-target="_blank">Advanced LIGO and Gravitational Waves</a>
-
 <a href="https://www.ligo.caltech.edu/news/ligo20160211" target="_blank">Press Release of the first direct detection!</a>
 
 
