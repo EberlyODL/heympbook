@@ -13,4 +13,4 @@ The detection of gravitational waves!
 
 <a href="https://www.ligo.caltech.edu/news/ligo20160211" target="_blank">Press Release of the first direct detection!</a>
 
-Since this first detection - there have been 5 more published detections, the most recent wave detected was Aug 17, 2017. And the excitement is continuing! 
+Since this first detection - there have been 5 more published detections, the most recent wave detected was <a href ="https://www.ligo.org/detections/GW170608.php" target="_blank"> November 15, 2017 </a>. And the excitement is continuing! 
