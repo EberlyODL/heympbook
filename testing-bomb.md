@@ -12,7 +12,7 @@ Recap: We have a setup where the photon starts in lower beam. A beam-splitter cr
 
 Imagine we change the setting slightly by putting our hand in the lower beam between the two beamsplitters. Our hand will absorb the photon and let us say that we can feel when a photon hits you. When a photon arrives, you scream "Ow!" 
 
-Just like before, having an observer will destroy the interference effect (the hand, not the screaming).  When we send the photon into the apparatus it has 50% chance of striking the hand. If it does, its done, the photon was absorbed by the hand. If it does not  hit the hand than we know the photon has to be in the upper beam before it gets to the final beam-splitter. The second beam-splitter will split halfway between up and down. So the end result is
+Just like before, having an observer will destroy the interference effect (the hand, not the screaming).  When we send the photon into the apparatus it has 50% chance of striking the hand. If it does, it's done, the photon was absorbed by the hand. If it does not  hit the hand than we know the photon has to be in the upper beam before it gets to the final beam-splitter. The second beam-splitter will split halfway between up and down. So the end result is
 
 ### Outcome for two beamsplitters and hand in lower beam
 
