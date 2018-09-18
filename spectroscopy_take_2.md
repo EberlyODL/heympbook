@@ -1,4 +1,4 @@
-The energy for ionization for hydrogen is 13.6 eV which corresponds to a frequency (using <lrn-math>E=hf<\lrn-math>) in the UV and not visible to the naked eye. If we send a photon to an atom in some state and the energy of the photon is not enough to ionize it _and_ the energy of the photon does not match **any** differences of energy between levels, then the photon will just pass through.
+The energy for ionization for hydrogen is 13.6 eV which corresponds to a frequency (using <lrn-math>E=hf</lrn-math>) in the UV and not visible to the naked eye. If we send a photon to an atom in some state and the energy of the photon is not enough to ionize it _and_ the energy of the photon does not match **any** differences of energy between levels, then the photon will just pass through.
 
 Let's shine all the frequencies of visible light Fig. "Continuous spectrum of light" on a hydrogen gas.
 
