@@ -14,7 +14,7 @@ The real wave associated with an electron looks more like the Fig. "Wavepacket":
 
 [ciscode|rev=1|tool=elmsmedia|item=2259|entity_type=node|render=display_mode|display_mode=image]
 
-You can think of a wavepacket has being the sum of a bunch of waves with different wavelength $\Delta \lambda$ as you can see in the animation "Making a wavepacket" below.
+You can think of a wavepacket as being the sum of a bunch of waves with different wavelength <lrn-math>\Delta \lambda</lrn-math> as you can see in the animation "Making a wavepacket" below.
 
 [ciscode|rev=1|tool=elmsmedia|item=2261|entity_type=node|render=display_mode|display_mode=image]
 
