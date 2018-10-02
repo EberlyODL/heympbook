@@ -1,4 +1,4 @@
-- <a href="http://www.scientificamerican.com/article.cfm?id=2003-blackout-five-years-later" target="_blank">The cause of the blackout</a>
+- <a href="https://www.scientificamerican.com/article/2003-blackout-five-years-later/" target="_blank">The cause of the blackout</a>
 
 ## The Electric Grid.
 
