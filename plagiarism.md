@@ -6,15 +6,15 @@ Of course all the academic integrity principles are important (like cheating) bu
 
 ### Examples of Plagiarism
 
-Let's first start with some example of plagiarism
+Let's first start with some example of plagiarism:
 
-1. Submit a paper for grading that you did not write yourself
-2. Copy answers or text from a colleague and submit is as your own
-3. Quote or paraphrase from another paper without giving credit to the author
-4. Cite data without giving credit to the original source
-5. Propose someone else’s idea as if it were yours
-6. Fabricate or use incorrect references
-7. Submit another’s presentation, program or spreadsheet with only small changes
+1. Submit a paper for grading that you did not write yourself.
+2. Copy answers or text from a colleague and submit is as your own.
+3. Quote or paraphrase from another paper without giving credit to the author.
+4. Cite data without giving credit to the original source.
+5. Propose someone else’s idea as if it were yours.
+6. Fabricate or use incorrect references.
+7. Submit another person’s presentation, program or spreadsheet with only small changes.
 
 These are pretty clear cut violations of Penn State academic principles. What about the following case?
 
