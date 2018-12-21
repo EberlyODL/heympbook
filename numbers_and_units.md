@@ -31,7 +31,7 @@ When you multiply or divide large numbers in exponential forms, you just add or 
 
 **Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
 
-- S: That's not too hard. I just multiply the number of atoms times the size per each atom like this <lrn-math>10^{23}</lrn-math> atoms <lrn-math>\times 10^{−10}</lrn-math> meter/per atom. That gives <lrn-math>10^{23−10}=10^{13}</lrn-math> meters.
+- S: That's not too hard. I just multiply the number of atoms times the size per each atom like this <lrn-math>10^{23}</lrn-math> atoms <lrn-math>\times 10^{−10}</lrn-math> meter/per atom. That gives <lrn-math>10^{23}\times 10^{-10} = 10^{23+(-10)} = 10^{23−10}=10^{13}</lrn-math> meters.
 - M: Good! There is one last step. Whenever you are done with a calculation, you need to step back and think about your answer. What do you think of the number?
 - S: Hmm. . . It's large.
 - M: Indeed, it's huge! The line would stretch 10,000 times around the whole circumference of the Earth. Yet you have many, many moles of water molecule in a glass water, how does that make sense?
