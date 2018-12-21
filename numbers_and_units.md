@@ -53,10 +53,10 @@ The direct hyperlink to the Youtube video is https://www.youtube.com/watch?time_
 Many choices are possible for the three basic units of length, mass and time:
 
 - Metric (SI, Système International) : **meter, kilogram, second**
-- English foot, slug , second
+- English foot, slug, second
 - and many others. . .
 
-We will use SI units in this course (SI stands for Systeme International), but it is useful to know conversions between systems for making estimates from your everyday knowledge.
+We will use SI units in this course (SI stands for International System in French), but it is useful to know the conversions between systems for making estimates from your everyday knowledge.
 
 ### External resources:
 
