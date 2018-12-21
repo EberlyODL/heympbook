@@ -27,7 +27,7 @@ Note that up to now we used only 1 and 0, but of course we could have
 3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.  
 6 nanometers, which is <lrn-math>6 \times 10^{-9}</lrn-math> meters or 0.000000006 meters.
 
-When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
+When you multiply or divide large numbers in exponential forms, you just add or subtract the exponents!
 
 **Example problem:** Let's say, I put side by side on a line <lrn-math>10^{23}</lrn-math> atoms (this is called a mole of atoms) and let's say these are atoms of helium which are roughly <lrn-math>10^{-10}</lrn-math> meters in size. How long would the line be?
 
