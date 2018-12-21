@@ -59,7 +59,7 @@ This is the speed of sound:  <lrn-math>3\times10^{2}</lrn-math> meters per secon
 
 In daily life you often don’t need the precise numbers so we can approximate like this.
 
-S: Ok that's all great but what does sound have to do with the speed of molecules or atoms??
+S: Ok that's all great but what does sound have to do with the speed of molecules or atoms??  
 M: Good question! As we will learn later on, sound is a wave traveling through the air. In order for sound to go from one place to another, molecules of air need to go touch another one (to transmit the message if you like). Since sound move at 300 meters per second the same must be true for the molecules. Molecules move at the speed of sound! Note that sounds travel faster in liquids and solids since the atoms/molecules already are in contact.
 
 
