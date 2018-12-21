@@ -50,7 +50,8 @@ This is easy to figure out. When you see a lightning outside. It often takes a w
 
 Sophie (S): I know my parents told me when I was young.  For every 5 seconds between the lightning flash and the thunder, the storm is 1 mile away. 10 seconds delay, the storm is 2 miles away.  
 Marie (M): That's right. This is because light travels super fast while sound is slower. From what your parents told you, you can determine the speed of sound.
-The last number is important to remember. And note that we approximate, we are not interested in being precise. We want an order of magnitude. There is approximately 5000 feet in a mile (really 5280 ft) and approximately 3 feet in a meter (really 3.3 ft).
+
+The last number is important to remember. Note that we approximate. We are not interested in being precise. We want an order of magnitude. There are approximately 5000 feet in a mile (really 5280 ft), and approximately 3 feet in a meter (really 3.3 ft).
 
 So if sound does 1 mile in 5 second. This is about 1000 feet in 1 second, which is about 300 meters per second.
 
@@ -59,6 +60,7 @@ This is the speed of sound:  <lrn-math>3\times10^{2}</lrn-math> meters per secon
 In daily life you often don’t need the precise numbers so we can approximate like this.
 
 S: Ok that's all great but what does sound have to do with the speed of molecules or atoms??
+
 M: Good question! As we will learn later on, sound is a wave traveling through the air. In order for sound to go from one place to another, molecules of air need to go touch another one (to transmit the message if you like). Since sound move at 300 meters per second the same must be true for the molecules. Molecules move at the speed of sound! Note that sounds travel faster in liquids and solids since the atoms/molecules already are in contact.
 
 
