@@ -42,7 +42,7 @@ When you multiply or divide large numbers in exponential forms, you just add or 
 
 To get a sense of scale and how big and small things compare, look at the following web resources. The [ Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
 
-Here is a good video from Derek of Veritasium reviewing many of the concepts we have just discussed regarding scientific notation followed by an order of magnitude question.
+Here is a good video from Derek of Veritasium reviewing many of the concepts we have just discussed regarding scientific notation followed by an order of magnitude question. (Where they ask for "size," they mean the circumference.)
 [ciscode|rev=1|tool=elmsmedia|item=4706|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The direct hyperlink to the Youtube video is https://www.youtube.com/watch?time_continue=3&v=57z0NIPAtpo 
