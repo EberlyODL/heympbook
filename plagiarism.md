@@ -26,7 +26,7 @@ These are pretty clear cut violations of Penn State academic principles. What ab
 
 ### Consequences of Plagiarism
 
-In the real world, you can get sued, lose your job or lose your reputation. You can find on this Wikipedia [page](http://en.wikipedia.org/wiki/List_of_plagiarism_incidents) many famous examples of plagiarism with very often dire consequences for the person who did it.
+In the real world, you can get sued, lose your job or lose your reputation. You can find on this Wikipedia [page](http://en.wikipedia.org/wiki/Plagiarism#Common_forms_of_student_plagiarism) some examples of plagiarism.
 
 For students at Penn State, **plagiarism will** result sanctions. For more on academic integrity see http://science.psu.edu/current-students/Integrity/Policy.html 
 
