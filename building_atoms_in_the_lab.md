@@ -1,7 +1,7 @@
 ### More about Atom Creation
 Stable atoms are eternal, but that doesn't mean that we can't destroy or create them. Atoms are immortal in the sense that, if left on their own, they will last forever (this is for the stable ones). But, given enough force, we can break atoms apart. The way we do that is usually by smashing them in the wall (figuratively speaking), and we will talk more about that later on.
 
-We can also create new atoms (new elements on the periodic table) by smashing protons and neutrons to existing atoms and hoping that they stick. Here is an interesting article about the creation of [eka radon 118](http://www.washingtonpost.com/wp-dyn/content/article/2006/10/16/AR2006101601083_pf.html). Many of the heaviest atoms in the periodic table were created in the lab.
+We can also create new atoms (new elements on the periodic table) by smashing protons and neutrons to existing atoms and hoping that they stick. Here is an interesting article about the creation of [oganesson](http://www.washingtonpost.com/wp-dyn/content/article/2006/10/16/AR2006101601083_pf.html). Many of the heaviest atoms in the periodic table were created in the lab.
 
 [ciscode|rev=1|tool=elmsmedia|item=807|entity_type=node|render=display_mode|display_mode=image]
 
