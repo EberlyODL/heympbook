@@ -17,13 +17,13 @@ To give you a sense of scale, a typical human as a mass of 75 kg. Since the atom
 
 ### Putting Them Together
 
-The simplest of all atom is hydrogen. It is also the most common atom in the Universe (~ 70% of all atoms in the Universe are hydrogen). Ironically, you cannot find pure hydrogen on Earth (there is a physics reason for that --see your book!).
+The simplest of all atom is hydrogen. It is also the most common atom in the Universe (~ 70% of all atoms in the Universe are hydrogen). Ironically, you cannot find pure hydrogen on Earth (there is a physics reason for that -See your book!).
 
 [ciscode|rev=1|tool=elmsmedia|item=1952|entity_type=node|render=display_mode|display_mode=image__left]
 
 There are two basic components of an atom. The nucleus is at the center and it is made of protons and neutrons (except for hydrogen where the nucleus is just a proton). The nucleus is heavy. Almost all the mass of an atom is in the nucleus.
 
-Around the nucleus, electrons are moving around. In what is called the "Bohr model" of the atom, the electrons are going around in circles (orbits) around the nucleus. This is the picture of the atom that most people are used to. It is not quite right and we will see a better picture later on but the important thing to remember is that atoms are mostly made of **nothing** **or void**. Atoms are almost all empty space. The nucleus is very very small and the image above of Hydrogen is deceiving. If it was to scale, you would not be able to see the nucleus. A clever website illustrating the void between the proton and electron in Hydrogen is [KeithCom's Hydrogen atom](http://keithcom.com/atoms/scale.php).
+Around the nucleus, electrons are moving around. In what is called the "Bohr model" of the atom, the electrons are going around in circles (orbits) around the nucleus. This is the picture of the atom that most people are used to. It is not quite right and we will see a better picture later on. But the important thing to remember is that atoms are mostly made of empty space. The nucleus is very very small and the image above of Hydrogen is deceiving. If it were to scale, you would not be able to see the nucleus. A clever website illustrating the void between the proton and electron in Hydrogen is [KeithCom's Hydrogen atom](http://keithcom.com/atoms/scale.php).
 
 <div class="small-6 medium-4 column right">[ciscode|rev=1|tool=elmsmedia|item=424|entity_type=node|render=display_mode|display_mode=image]</div>
 
