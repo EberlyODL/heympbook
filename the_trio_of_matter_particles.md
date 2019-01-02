@@ -17,7 +17,7 @@ To give you a sense of scale, a typical human as a mass of 75 kg. Since the atom
 
 ### Putting Them Together
 
-The simplest of all atom is hydrogen. It is also the most common atom in the Universe (~ 70% of all atoms in the Universe are hydrogen). Ironically, you cannot find pure hydrogen on Earth (there is a -physics- reason for that -- see your book!).
+The simplest of all atom is hydrogen. It is also the most common atom in the Universe (~ 70% of all atoms in the Universe are hydrogen). Ironically, you cannot find pure hydrogen on Earth (there is a physics reason for that --see your book!).
 
 [ciscode|rev=1|tool=elmsmedia|item=1952|entity_type=node|render=display_mode|display_mode=image__left]
 
