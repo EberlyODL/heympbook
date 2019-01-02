@@ -9,6 +9,6 @@ Many of the elements with atomic numbers above 100 are synthetic (and most of th
 
 ### Building Atoms
 
-Here is a Phet simulation to learn with. The goal is to build atoms by adding protons/neutrons and electrons. See if you can create a heavy atom. Look to see the difference between an isotope, an ion, or a stable neutral atom. The applet will tell you whether you have an ion or a neutral atom. You can see the symbol, the mass number, and the net charge on the right. Note that the nucleus will be jiggling if you have constructed an unstable isotope. For now, choose the orbits model of the atoms. We will learn the cloud model later on (the correct model). Make sure to try the game as well!
+Here is a Phet simulation to learn with. The goal is to build atoms by adding protons/neutrons and electrons. See if you can create a heavy atom. Look to see the difference between an isotope, an ion, or a stable neutral atom. The applet will tell you whether you have an ion or a neutral atom. You can see the symbol, the mass number, and the net charge on the right. Note that the nucleus will be jiggling if you have constructed an unstable isotope. For now, choose the orbits model of the atoms. We will learn the cloud model (the correct model) later on. Make sure to try the game as well!
 
 <iframe src="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
