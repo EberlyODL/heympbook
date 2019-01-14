@@ -11,20 +11,22 @@ We will use the letter K to denote kinetic energy. If you put the mass of the ob
 
 ### Newsflash 2
 
-Earth is hit by meteors from time to time. The last big hit was in February 15, 2013! How much energy did it have? Here is a link to a news article on the subject.
+Earth is hit by meteors from time to time. A relatively recent big hit happened on February 15, 2013! How much energy did it have? Here is a link to a news article on the subject.
 
 [Asteroid Hit in Russia](www.foxnews.com/science/2013/02/15/injuries-reported-after-meteorite-falls-in-russia-ural-mountains)
 
 Some facts about the asteroid from the European Space Agency (ESA) can be found [here](www.esa.int/Our_Activities/Operations/Space_Situational_Awareness/Russia_asteroid_impact_ESA_update_and_assessment).
 
 Lets do the calculation ourselves below: 
-Mass: 10,000 tons (9,000,000 kg!)
-Velocity: about 40,000 mph ( approx 64,000 km/h) when it exploded.
+
+Mass = 10,000 tons (9,000,000 kg!)
+
+Velocity = about 40,000 mph (approx. 64,000 km/h) when it exploded.
 
 How much kinetic energy did it have when it landed?
  <lrn-math>K = \frac12 mv^2 </lrn-math>
- <lrn-math>K= \frac12 (9,000,000 kg)(18,000 m/s)^2 </lrn-math>
- <lrn-math>K=1.4x10^15 J = 350 </lrn-math> billion Calories ( 4,000,000 kWh) 
+ <lrn-math>K= \frac12 (9x10^6 kg)(1.8x10^4 m/s)^2 </lrn-math>
+ <lrn-math>K=1.4x10^{15} J = 350 </lrn-math> billion Calories ( 400,000,000 kWh) 
 
 Equal to ~500 kilotons of TNT!  
 
