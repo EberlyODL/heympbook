@@ -23,28 +23,7 @@ Physicists prefer the unit of Joules which is the natural unit to use in their e
 
 As you can see from the table, for the same mass of fuel, uranium is the big winner. The energy that is accessible in uranium is the binding energy between neutrons and protons in the nucleus. We will learn more about this in the future but for now it is important to know that nuclear energy is often _much much_ bigger per gram than chemical energy \(TNT, cookies\) or energy stored in batteries.
 
-<style>
-.67bc0f2c {
-  width: 100%;
-}
-@media (min-width: 300px) {
-    .67bc0f2c {
-      max-width: 300px;
-      margin: auto;
-    }
-}
-@media (min-width: 500px) {
-    .67bc0f2c {
-      max-width: 300px;
-      float: left;
-      margin-right: 1em;
-      margin-left: -1em;
-    }
-}
-</style>
-<div class="67bc0f2c">
-[ciscode|rev=1|tool=elmsmedia|item=428|entity_type=node|render=display_mode|display_mode=image__lightboxed]
-</div>
+[ciscode|rev=1|tool=elmsmedia|item=428|entity_type=node|render=display_mode|display_mode=image__left__lightboxed]
 
 * Marie: Do you play a sport, Sophie?
 * Sophie: Yes, I play volleyball.
