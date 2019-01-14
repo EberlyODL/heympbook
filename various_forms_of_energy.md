@@ -4,11 +4,11 @@ Let's keep thinking about the asteroid energy as we move on to talk about differ
 
 [ciscode|rev=1|tool=elmsmedia|item=430|entity_type=node|render=display_mode|display_mode=image]
 
-1. **Kinetic energy**: Energy associated with movement. \(e.g. bullet or asteroid\).
-2. **Chemical energy**: Energy stored in chemical bonds between atoms and molecules inside of matter \(e.g. TNT, can of soda\). Fundamentally this energy can be called electrical potential energy since the electric force is the force involved, as we will see.
-3. **Nuclear energy**: Energy stored inside the nucleus of an atom. \(e.g Uranium\).
-4. **Gravitational potential energy**: Energy stored in objects that wants to move under gravity. \(e.g. water restrained by a dam\).
-5. **Thermal energy \(sometimes called heat\).**
+1. **Kinetic energy**: Energy associated with movement; e.g., bullet or asteroid.
+2. **Chemical energy**: Energy stored in chemical bonds between atoms and molecules inside of matter; e.g., TNT, can of soda. Fundamentally this energy can be called electrical potential energy since the electric force is the force involved, as we will see.
+3. **Nuclear energy**: Energy stored inside the nucleus of an atom; e.g., Uranium.
+4. **Gravitational potential energy**: Energy stored in objects that wants to move under gravity; e.g. , water restrained by a dam.
+5. **Thermal energy**: sometimes called **heat**.
 
 Sophie: Hey, this is a really long list!
 
