@@ -22,10 +22,11 @@ Lets do the calculation ourselves below:
 Mass = 10,000 tons (9,000,000 kg!)<br>
 Velocity = about 40,000 mph (approx. 64,000 km/h) when it exploded.
 
-How much kinetic energy did it have when it landed?
- <lrn-math>K = \frac12 mv^2 </lrn-math>
+How much kinetic energy did it have when it landed?<br>
+ <lrn-math>K = \frac12 mv^2 </lrn-math><br>
  <lrn-math>K= \frac12 (9x10^6 kg)(1.8x10^4 m/s)^2 </lrn-math>
- <lrn-math>K=1.4x10^{15} J = 350 </lrn-math> billion Calories ( 400,000,000 kWh) 
+ <lrn-math> = 1.4x10^{15} J </lrn-math><br>
+ <lrn-math>K = 350 </lrn-math> billion Calories = 400,000,000 kWh 
 
 Equal to ~500 kilotons of TNT!  
 
