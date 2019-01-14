@@ -24,10 +24,10 @@ Velocity = about 40,000 mph (approx. 64,000 km/h) when it exploded.
 
 How much kinetic energy did it have when it landed?<br>
  <lrn-math>K = \frac12 mv^2 </lrn-math><br>
- <lrn-math>K= \frac12 (9x10^6 kg)(1.8x10^4 m/s)^2 </lrn-math>
+ <lrn-math>K= \frac12 (9\times10^6 kg)(1.8x10^4 m/s)^2 </lrn-math>
  <lrn-math> = 1.4x10^{15} J </lrn-math><br>
  <lrn-math>K = 350 </lrn-math> billion Calories = 400,000,000 kWh 
 
-Equal to ~500 kilotons of TNT!  
+This is equivalent to ~500 kilotons of TNT!  
 
 Where did that energy go when it crashed? This is a good question to think of as we move on...
