@@ -32,7 +32,7 @@ As you can see from the table, for the same mass of fuel, uranium is the big win
 * M: Ah, great example. This is a sport that has more to do with power than energy.
 * M: Some sports require a lot of energy constantly, say like running. These are sports of endurance. But volleyball, or say football, often requires very quick bursts of energy release. These sports are not so much about energy, they require high power.
 
-<div class="divider" style="clear:both;"></div>
+<div style="clear:both;"></div>
 
 ## Power
 
