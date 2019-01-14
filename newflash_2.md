@@ -26,7 +26,7 @@ How much kinetic energy did it have when it landed?<br>
  <lrn-math>K = \frac12 mv^2 </lrn-math><br>
  <lrn-math>K= \frac12 (9\times10^6 kg)(1.8\times10^4 m/s)^2 </lrn-math>
  <lrn-math> = 1.4\times10^{15} J </lrn-math><br>
- <lrn-math>K = 3.5\times10^{11} </lrn-math> Calories <lrn-math> \approx 4\times10^8<lrn-math> kWh 
+ <lrn-math>K = 3.5\times10^{11} </lrn-math> Calories <lrn-math> \approx 4\times10^8</lrn-math> kWh 
 
 This is equivalent to ~500 kilotons of TNT!  
 
