@@ -20,6 +20,7 @@ We can also modify the units by adding a prefix. Here is a list of common prefix
 | kilo | k |  <lrn-math>10^{3} </lrn-math> |
 | mega | M |  <lrn-math>10^{6} </lrn-math> |
 | giga | G |  <lrn-math>10^{9} </lrn-math> |
+| tera | T | <lrn-math>10^{12} </lrn-math> |
 
 > Usain Bolt ran the 100 m race. This is the same as the 0.1 km \(0.1 kilometer\) race.
 
@@ -34,7 +35,7 @@ The horsepower is the typical power \(energy per time\) of a working horse. The 
 Here are other well-known unit conversions between inch \(in\), miles \(mi\) and meters \(m\)
 
 * 1 in = 2.54 cm
-* 1 mi = 1609 km
+* 1 mi = 1.609 km
 
 All three units in, mi and m represents **the same physical quantity of length**. They are just different measurement standard.
 
