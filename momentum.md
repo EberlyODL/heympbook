@@ -2,7 +2,7 @@ Energy is not the only thing that is conserved in the world. There is another qu
 
 We use the letter  <lrn-math>p </lrn-math> to denote momentum. And just like energy, it is a law of physics that the **total momentum of a system is conserved.** Before we look at that statement in more details lets  examine the Newton's cradle again:
 
-[ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=full]
 
 Look closely at the collision. When a ball hits the stack, the ball at the other end picks up and continues the movement. It looks like something is transmitted. Well, there is something "transmitted" and it is not just energy. In this kind of collision, momentum is conserved and the ball at the other end has the same momentum as the ball that just hit had.
 
