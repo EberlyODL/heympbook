@@ -6,7 +6,7 @@ Oscillations are defined by two main quantities: the amplitude and the frequency
 
 A mass oscillating (vibrating) on a spring has a regular frequency. The pendulum swinging back and forth in a grandfather clock is also an oscillator with a specific frequency.
 
-[ciscode|rev=1|tool=elmsmedia|item=2090|entity_type=node|render=display_mode|display_mode=image_gallery__basic_gallery__circle]
+[ciscode|rev=1|tool=elmsmedia|item=2090|entity_type=node|render=display_mode|display_mode=image]
 
 
 The oscillatory behavior of a pendulum or a mass on a spring can be displayed in a graphical manner as shown below.  Note the axis, time is the horizontal axis.
