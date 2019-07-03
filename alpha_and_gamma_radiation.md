@@ -23,7 +23,7 @@ Polonium 208 (84 protons and 124 neutrons) is unstable, it is radioactive. It wi
 [ciscode|rev=1|tool=elmsmedia|item=5078|entity_type=node|render=display_mode|display_mode=image__boxed__left__lightboxed]
 
 
->Marie Curie spend her life studying radioactive materials and she won a Nobel prize in physics _and_ chemistry in recognition of her work. (Very, very few people have ever done that.)
+>Marie Curie spend her life studying radioactive materials (including Polonium) and she won a Nobel prize in physics _and_ chemistry in recognition of her work. (Very, very few people have ever done that.)
 Unfortunately, she died of cancer. Her lab notebook and other furniture from her lab, are being kept in Paris but they cannot be seen by the public because they are too radioactive and unsafe still to this day!
 
 - S: Why would the notebook be radioactive, it is not made of Polonium?
