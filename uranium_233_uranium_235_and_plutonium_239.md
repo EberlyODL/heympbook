@@ -1,4 +1,4 @@
-## Nuclear Fission 
+## Nuclear Fission
 Up to now, we have looked at spontaneous radioactive decay that leads to either alpha radiation or gamma radiation. Nuclear fission, on the other hand, is about externally triggering the breakup of a nucleus.
 
 [ciscode|rev=1|tool=elmsmedia|item=828|entity_type=node|render=display_mode|display_mode=image__left]
@@ -38,4 +38,4 @@ When U-236 breaks it also releases three neutrons (these neutrons can be used to
 ## External Resources
 
 - Some details on the energy released during nuclear fission can be found at <a href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-fission.htm" target="_blank">the European Nuclear Society</a>
-- To visualize fission of U-235 there is a nice simulation here: < a href="https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus">https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus</a>. Fire a slow neutron at the U-235 and watch the energy diagram. See if you can explain what happens energetically. 
+- To visualize fission of U-235 there is a nice simulation here: https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus . Fire a slow neutron at the U-235 and watch the energy diagram. See if you can explain what happens energetically.
