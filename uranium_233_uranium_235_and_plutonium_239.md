@@ -1,3 +1,4 @@
+## Nuclear Fission 
 Up to now, we have looked at spontaneous radioactive decay that leads to either alpha radiation or gamma radiation. Nuclear fission, on the other hand, is about externally triggering the breakup of a nucleus.
 
 [ciscode|rev=1|tool=elmsmedia|item=828|entity_type=node|render=display_mode|display_mode=image__left]
@@ -14,7 +15,7 @@ There are three main fuels that we can easily do fission with in nature.
 
 [ciscode|rev=1|tool=elmsmedia|item=830|entity_type=node|render=display_mode|display_mode=image__left]
 
-* **Plutonium-239**: It does not exist in nature but it can be created by bombarding Uranium-238 (which is available in nature in large quantities) with neutrons. 
+* **Plutonium-239**: It does not exist in nature but it can be created by bombarding Uranium-238 (which is available in nature in large quantities) with neutrons.
 
 [ciscode|rev=1|tool=elmsmedia|item=831|entity_type=node|render=display_mode|display_mode=image__left]
 
@@ -26,7 +27,7 @@ We first mine for Uranium-238, which can be found in pretty large quantities (40
 
 A typical sample of U-238 will contain 0.7% of U-235 with a half-life t½ of about 703,800,000 years. In order to effectively do fission we need more U-235 than that and so we have a procedure called "Uranium enrichment" in which we increase the % of U-235 in the U-238 sample - concentrating it. We then create a rod with this enriched uranium and we send high-speed neutrons toward it.
 
-When U-235 absorbs a neutron, it becomes U-236 which is really unstable- this causes the whole atom to break apart into Krypton and Barium (see <a href="http://www.webelements.com/" target="_blank">table of element</a> for Kr and Ba); see Fig. "Uranium Cycle". 
+When U-235 absorbs a neutron, it becomes U-236 which is really unstable- this causes the whole atom to break apart into Krypton and Barium (see <a href="http://www.webelements.com/" target="_blank">table of element</a> for Kr and Ba); see Fig. "Uranium Cycle".
 
 [ciscode|rev=1|tool=elmsmedia|item=832|entity_type=node|render=display_mode|display_mode=image]
 
@@ -36,4 +37,5 @@ When U-236 breaks it also releases three neutrons (these neutrons can be used to
 
 ## External Resources
 
-- Some details on the energy released during nuclear fission can be found at <a href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-fission.htm" target="_blank">the European Nuclear Society</a> 
+- Some details on the energy released during nuclear fission can be found at <a href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-fission.htm" target="_blank">the European Nuclear Society</a>
+- To visualize fission of U-235 there is a nice simulation here: < a href="https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus">https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus</a>. Fire a slow neutron at the U-235 and watch the energy diagram. See if you can explain what happens energetically. 
