@@ -38,4 +38,5 @@ When U-236 breaks it also releases three neutrons (these neutrons can be used to
 ## External Resources
 
 - Some details on the energy released during nuclear fission can be found at <a href="http://www.euronuclear.org/info/encyclopedia/n/nuclear-fission.htm" target="_blank">the European Nuclear Society</a>
-- To visualize fission of U-235 there is a nice simulation here: https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus . Fire a slow neutron at the U-235 and watch the energy diagram. See if you can explain what happens energetically.
+- To visualize fission of U-235 there is  <a href=
+" https://archive.cnx.org/specials/01caf0d0-116f-11e6-b891-abfdaa77b03b/nuclear-fission/#sim-one-nucleus" target="_blank"> a nice simulation here </a> . Fire a slow neutron at the U-235 and watch the energy diagram. See if you can explain what happens energetically.
