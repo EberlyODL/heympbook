@@ -2,23 +2,23 @@ M: Alright, we now have all the tools to understand the first two basic types of
 
 Let us summarize:
 
-1. The nucleus is an energy well. The source of this energy is the nuclear force which is stronger than the electric repulsion between the protons, but it is very short range.
-2. Each nucleus has some average binding energy. Helium is unusually stable and so protons and neutrons like to group themselves in bunches of four (alpha particles or helium nuclei) inside the nucleus.
+1. The nucleus is a potential energy well. The source of this energy is the attractive nuclear force which is stronger than the electric repulsion between the protons, but it is very short range.
+2. Each nucleus has some average binding energy (potential energy). Helium is unusually stable and so protons and neutrons like to group themselves in bunches of four (alpha particles or helium nuclei) inside the nucleus.
 3. The most stable atom is iron. Atoms below iron would like to grab some alpha particles, but this is very rare. Atoms bigger than iron can eject an alpha particle to become more stable.
-4. Alpha particles are stuck inside the potential well (see Fig. "Alpha Radiation") but sometimes they can randomly get out of the nucleus - lets see how that happens. 
+4. Alpha particles are stuck inside the potential well (see Fig. "Alpha Radiation") but sometimes they can randomly get out of the nucleus - lets look at when that happens.
 
-> The ultimate mechanism for alpha radiation relies on quantum tunneling which we will not cover in this class— <a href="https://www.youtube.com/watch?v=cTodS8hkSDg" target="_blank">look here</a> if you want to learn more about it.
+> Because the total energy of the alpha particles is less than what you need to be able to get out of the potential energy well, the ultimate mechanism for alpha radiation relies on quantum tunneling which we will not cover in this class— <a href="https://www.youtube.com/watch?v=cTodS8hkSDg" target="_blank">look here</a> if you want to learn more about it.
 
 [ciscode|rev=1|tool=elmsmedia|item=826|entity_type=node|render=display_mode|display_mode=image]
 
-## Polonium PO 84 
+## Polonium PO 84
 
 Let us look at an example. Polonium is a highly radioactive element discovered by Marie and Pierre Curie. Its atomic number is 84 (this means it has 84 protons). There are no stable isotopes of Polonium. For every number of neutrons, polonium is highly radioactive and will mostly want to undergo alpha decay.
 
-> A reminder. The number of protons inside the nucleus differentiates different elements. 8 protons is oxygen while 7 protons is nitrogen, etc. For any given number of protons, we can have different number of neutrons (different *isotopes*). Oxygen 16 is oxygen with 8 neutrons (for a total of 16), the most common version of oxygen. Oxygen 17 is an isotope of oxygen with 8 protons and 9 neutrons, it is stable. Wikipedia always gives the list of all stable isotope for each elements, just look up oxygen and see the properties on the right. 
+> A reminder. The number of protons inside the nucleus differentiates different elements. 8 protons is oxygen while 7 protons is nitrogen, etc. For any given number of protons, we can have different number of neutrons (different *isotopes*). Oxygen 16 is oxygen with 8 neutrons (for a total of 16), the most common version of oxygen. Oxygen 17 is an isotope of oxygen with 8 protons and 9 neutrons, it is stable. Wikipedia always gives the list of all stable isotope for each elements, just look up oxygen and see the properties on the right.
 
 For example, polonium 208 (84 protons and 124 neutrons) is unstable, it is radioactive. It will after some time emits an alpha particle and becomes lead Pb 204 which is very stable. Note that the total number of nuclei dropped by four (208 -> 204) and that polonium (element 84) became lead (element 82) (so two less protons). See the
-<a href="http://www.webelements.com" target="_blank">table of elements</a> to check for yourself. 
+<a href="http://www.webelements.com" target="_blank">table of elements</a> to check for yourself.
 
 >Marie Curie spend her life studying radioactive materials and she won a Nobel prize in physics _and_ chemistry in recognition of her work. (Very, very few people have ever done that.)
 Unfortunately, she died of cancer. Her lab notebook and other furniture from her lab, are being kept in Paris but they cannot be seen by the public because they are too radioactive and unsafe still to this day!
@@ -28,10 +28,10 @@ Unfortunately, she died of cancer. Her lab notebook and other furniture from her
 - S: It is sad that she died because of her research.
 - M: Well you can die of cancer for other causes, but, yes, she was in contact with many dangerous materials. Now we do nuclear research much more safely and Marie lives on thru the many discoveries she made!
 
-> Radioactive vs Radiation: This is an important distinction. Radioactive material emits radiation. The emitted radiation is what is dangerous, and this is because alpha particles and gamma  radiation are particularly hazardous to humans. 
+> Radioactive vs Radiation: This is an important distinction. Radioactive material emits radiation. The emitted radiation is what is dangerous, and this is because alpha particles and gamma  radiation are particularly hazardous to humans.
 
 
-## Gamma Radiation 
+## Gamma Radiation
 
 The other type of nuclear radiation is a photon. To understand why, we need to go back to the "electron in a box from previous weeks). You will remember that when you put a particle in a box, its energy is quantized (see Fig. "Energy Levels H").
 
@@ -46,7 +46,7 @@ A typical nuclei transition inside the atom create photons with energy of about 
 [ciscode|rev=1|tool=elmsmedia|item=2704|entity_type=node|render=display_mode|display_mode=h5p]
 
 
-## Mass Defect 
+## Mass Defect
 
 Let us say that an atom's nucleus decays from an excited state and emits a 1 MeV gamma ray. The atom is at rest at the beginning and so shooting out a photon will make it recoil a bit, but not very much (remember conservation of momentum?). But where does that gamma ray's energy come from?
 
