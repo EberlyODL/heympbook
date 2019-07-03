@@ -11,13 +11,13 @@ Let us summarize:
 
 [ciscode|rev=1|tool=elmsmedia|item=826|entity_type=node|render=display_mode|display_mode=image]
 
-## Polonium PO 84
+## Polonium PO 84 alpha decay
 
-Let us look at an example. Polonium is a highly radioactive element discovered by Marie and Pierre Curie. Its atomic number is 84 (this means it has 84 protons). There are no stable isotopes of Polonium. For every number of neutrons, polonium is highly radioactive and will mostly want to undergo alpha decay.
+Let us look at an example of alpha decay. Polonium is a highly radioactive element discovered by Marie and Pierre Curie. Its atomic number is 84 (this means it has 84 protons). There are no stable isotopes of Polonium. For every number of neutrons, polonium is highly radioactive and will mostly want to undergo alpha decay.
 
-> A reminder. The number of protons inside the nucleus differentiates different elements. 8 protons is oxygen while 7 protons is nitrogen, etc. For any given number of protons, we can have different number of neutrons (different *isotopes*). Oxygen 16 is oxygen with 8 neutrons (for a total of 16), the most common version of oxygen. Oxygen 17 is an isotope of oxygen with 8 protons and 9 neutrons, it is stable. Wikipedia always gives the list of all stable isotope for each elements, just look up oxygen and see the properties on the right.
+> A reminder of definitions: The number of protons inside the nucleus determines the element. 8 protons is oxygen while 7 protons is nitrogen, etc. For any given number of protons, we can have different number of neutrons (different *isotopes*). Oxygen 16 is oxygen with 8 neutrons (for a total of 16), the most common version of oxygen. Oxygen 17 is an isotope of oxygen with 8 protons and 9 neutrons, it is alo stable. Wikipedia always gives the list of all stable isotope for each elements, just look up oxygen and see the properties on the right.
 
-For example, polonium 208 (84 protons and 124 neutrons) is unstable, it is radioactive. It will after some time emits an alpha particle and becomes lead Pb 204 which is very stable. Note that the total number of nuclei dropped by four (208 -> 204) and that polonium (element 84) became lead (element 82) (so two less protons). See the
+Polonium 208 (84 protons and 124 neutrons) is unstable, it is radioactive. It will after some time emit an alpha particle and becomes lead, Pb 204, which is very stable. Note that the total number of nuclei dropped by four (208 -> 204) and that polonium (element 84) became lead (element 82) (so two less protons). So it lost 2 protons and 2 neutrons (an alpha particle!) See the
 <a href="http://www.webelements.com" target="_blank">table of elements</a> to check for yourself.
 
 >Marie Curie spend her life studying radioactive materials and she won a Nobel prize in physics _and_ chemistry in recognition of her work. (Very, very few people have ever done that.)
