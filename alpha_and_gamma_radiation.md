@@ -19,7 +19,7 @@ Let us look at an example of alpha decay. Polonium is a highly radioactive eleme
 
 Polonium 208 (84 protons and 124 neutrons) is unstable, it is radioactive. It will after some time emit an alpha particle and becomes lead, Pb 204, which is very stable. Note that the total number of nuclei dropped by four (208 -> 204) and that polonium (element 84) became lead (element 82) (so two less protons). So it lost 2 protons and 2 neutrons (an alpha particle!) See the
 <a href="http://www.webelements.com" target="_blank">table of elements</a> to check for yourself.
-
+[ciscode|rev=1|tool=elmsmedia|item=5078|entity_type=node|render=display_mode|display_mode=image__left]
 >Marie Curie spend her life studying radioactive materials and she won a Nobel prize in physics _and_ chemistry in recognition of her work. (Very, very few people have ever done that.)
 Unfortunately, she died of cancer. Her lab notebook and other furniture from her lab, are being kept in Paris but they cannot be seen by the public because they are too radioactive and unsafe still to this day!
 
