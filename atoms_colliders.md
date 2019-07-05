@@ -41,7 +41,7 @@ Maybe the collider will detect new physics. One always has to be careful in scie
 - Look at this very good <a href="http://news.bbc.co.uk/2/hi/7543089.stm" target="_blank">Intro to LHC</a> from BBC news.
 
 
--Before they turned the LHC on in 2008, some were concerned about it destroying the world. This produced <a href="http://hasthelargehadroncolliderdestroyedtheworldyet.com/">memes </a> in the science community, but was indeed a big deal. If you are interested here's a link to read: <a href="http://www.businessinsider.com/will-the-lhc-destroy-the-earth-2015-4" target="_blank"> Will the LHC destroy the earth? </a>. Thankfully, the scientists were right.
+- Before they turned the LHC on in 2008, some were concerned about it destroying the world. This produced <a href="http://hasthelargehadroncolliderdestroyedtheworldyet.com/">memes </a> in the science community, but was indeed a big deal. If you are interested here's a link to read: <a href="http://www.businessinsider.com/will-the-lhc-destroy-the-earth-2015-4" target="_blank"> Will the LHC destroy the earth? </a>. Thankfully, the scientists were right.
 
 
 
