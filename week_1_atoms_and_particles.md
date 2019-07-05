@@ -28,7 +28,7 @@ All readings and assignments can be found on Canvas.
 ## News Article for week 1
 
 * [Spelling IBM Atom by Atom](http://www.nytimes.com/1990/04/05/us/2-researchers-spell-ibm-atom-by-atom.html?pagewanted=print&src=pm)
-* Bonus News article (not required but shows a much more modern capability of atom viewing) [First ever photograph inside a hydrogen atom](https://www.foxnews.com/science/amazing-first-ever-photograph-inside-a-hydrogen-atom) - we will learn more about how this was possible later in the semester.
+* Bonus: After spelling IBM with atoms.. where has the Scanning Tunneling Microscope taken us? Here is a short list from [Science Direct](https://www.sciencedirect.com/topics/materials-science/scanning-tunneling-microscopy)
 
 
 
