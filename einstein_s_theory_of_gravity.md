@@ -18,7 +18,4 @@ So soon after inventing the **special theory of relativity**, Einstein realized 
 
 [ciscode|rev=1|tool=elmsmedia|item=892|entity_type=node|render=display_mode|display_mode=image]
 
-[ciscode|rev=1|tool=elmsmedia|item=893|entity_type=node|render=display_mode|display_mode=image]
-
-
 [ciscode|rev=1|tool=elmsmedia|item=5081|entity_type=node|render=display_mode|display_mode=image]
