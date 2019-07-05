@@ -9,7 +9,7 @@ Let us summarize:
 
 > Because the total energy of the alpha particles is less than what you need to be able to get out of the potential energy well, the ultimate mechanism for alpha radiation relies on quantum tunneling which we will not cover in this class— <a href="https://www.youtube.com/watch?v=cTodS8hkSDg" target="_blank">look here</a> if you want to learn more about it.
 
-[ciscode|rev=1|tool=elmsmedia|item=826|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=826|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 ## Polonium PO 84 alpha decay
 
