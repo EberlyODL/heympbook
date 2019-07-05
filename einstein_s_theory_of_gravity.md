@@ -13,9 +13,12 @@ So soon after inventing the **special theory of relativity**, Einstein realized 
 1. The force of gravity is now described as curvature of spacetime. Every object with energy curves spacetime, see Fig. "Curvature of Spacetime".
 2. For most objects, the curvature of spacetime leads to the same law of attraction that Newton's discovered with some small corrections.
 3. The curvature of spacetime affects light rays. So light is also affected by gravity.
-4. If an object becomes very dense, it can capture light. This is called a black hole; see Fig. "Black Hole". 
+4. If an object becomes very dense, it can capture light. This is called a black hole; see Fig. "Black Hole".
 5. The theory predicts that it should be possible to create waves of spacetime. If spacetime is changeable and dynamic and you can curve it, it should be possible to create ripples in spacetime that propagate. These are called **gravitational waves**. They are completely analogous to electromagnetic waves, which are ripples in the electric and magnetic field.
 
 [ciscode|rev=1|tool=elmsmedia|item=892|entity_type=node|render=display_mode|display_mode=image]
 
 [ciscode|rev=1|tool=elmsmedia|item=893|entity_type=node|render=display_mode|display_mode=image]
+
+
+[ciscode|rev=1|tool=elmsmedia|item=5081|entity_type=node|render=display_mode|display_mode=image]
