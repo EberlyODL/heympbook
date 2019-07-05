@@ -30,7 +30,7 @@ Once in a while, the protons are allowed to collide with the protons going the o
 
 At these locations where the protons are allowed to collide, the result is a shower of particles shooting in all directions (see Fig "Particle Production at LHC"). Among the mess, physicists are trying to find new clues about the underlying structure of the Universe.
 
-[ciscode|rev=1|tool=elmsmedia|item=2632|entity_type=node|render=display_mode|display_mode=image__left]
+[ciscode|rev=1|tool=elmsmedia|item=2632|entity_type=node|render=display_mode]
 
 ## Discovery of new particles - the Higgs Boson
 The LHC was turned on a few years ago (and despite concerns, the world did not end), producing invaluable data for quite a while now, and the Higgs boson was discovered as expected! (maybe unexpected ones are to come?).
