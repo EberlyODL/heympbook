@@ -21,13 +21,14 @@ The full list of objectives can be found on Canvas
 
 1. LOPro01 read and interpret graphs and data
 2. LOPro02 calculate with large and small numbers using the scientific notation.
-3. LOPW01 recall the properties of electrons, protons, neutrons and atoms. 
+3. LOPW01 recall the properties of electrons, protons, neutrons and atoms.
 
 All readings and assignments can be found on Canvas.
 
 ## News Article for week 1
 
 * [Spelling IBM Atom by Atom](http://www.nytimes.com/1990/04/05/us/2-researchers-spell-ibm-atom-by-atom.html?pagewanted=print&src=pm)
+* Bonus News article (not required but shows a much more modern capability of atom viewing) [First ever photograph inside a hydrogen atom](https://www.foxnews.com/science/amazing-first-ever-photograph-inside-a-hydrogen-atom) - we will learn more about how this was possible later in the semester.
 
 
 
