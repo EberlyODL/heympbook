@@ -2,7 +2,16 @@ Now that we have some background both the flow of electrons (current) and how el
 
 <lrn-math>I= V/R</lrn-math>   
 
-Resistance (which is the <lrn-math>R</lrn-math> in the equation above), is just that - something which slows down the current flow, usually by taking some of the electron's kinetic energy and turning it into something else.  (We will not use this equation for any calculations, only for our discussion about safety). Resistors can be boring (There is an electrical part called a _resistor_  it is used to help set the correct current or voltage in a circuit) or they can be more directly used - lights, computers, refrigerators - all take the electrical voltage and current supplied and use it for various purposes.
+Resistance (which is the <lrn-math>R</lrn-math> in the equation above), is just that - something which slows down the current flow, usually by taking some of the electron's kinetic energy and turning it into something else. Resistors can be boring (There is an electrical part called a _resistor_ it is used to help set the correct current or voltage in a circuit) or they can be more directly used - lights, computers, refrigerators - all take the electrical voltage and current supplied and use it for various purposes. 
+>(We will not use this equation for any calculations, only for our discussion about safety). 
+
+
+Instead lets look at this equation as a way to refresh our memory about graphing.
+
+
+Try the simulation below and see what happens to the current in a circuit when the resistance decreases. 
+<iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+[ciscode|rev=1|tool=elmsmedia|item=5083|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 ## Circuits
@@ -10,7 +19,7 @@ What is a circuit anyway? The most simple definition is a Voltage source which i
 
 There are generally two ways to wire multiple devices to a power source:
 
-- You could string them along in a line: toaster, microwave, refrigerator, etc. This is called **series** wiring. The problem with this in your house is that each appliance has to share the same voltage, divided up between them. This won't work though because each device says "120 V" (which is the voltage that comes out of the outlet). How do we assure each appliance gets 120 V? 
+- You could string them along in a line: toaster, microwave, refrigerator, etc. This is called **series** wiring. The problem with this in your house is that each appliance has to share the same voltage, divided up between them. This won't work though because each device says "120 V" (which is the voltage that comes out of the outlet). How do we assure each appliance gets 120 V?
 
 - Buildings are instead wired in **parallel**. In parallel each appliance gets is own connection to the voltage source (a.k.a. outlet), and they split up the current, allowing a smaller amount of current can go through each appliance at once.
 
@@ -33,9 +42,4 @@ Sharing current in parallel is where circuit breakers come into play. Generally,
 
 
 
-Try the simulation below and see what happens to the current in a circuit when the resistance decreases. 
-<iframe src="https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
-
-
-[ciscode|rev=1|tool=elmsmedia|item=5083|entity_type=node|render=display_mode|display_mode=h5p]
 
