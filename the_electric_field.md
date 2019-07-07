@@ -27,6 +27,7 @@ Here is what you should remember from these figures.
 ## Phet Simulation
 
 In the following simulation, you can move positive and negative charges to change the "mattress" of the electric field. At each point in space the electric field has a value and a direction. Experiment to get a feeling and help visualize. Some questions to explore:
+
 1. How does the direction of the arrows change with the sign of the charge?
 2. How does the field change as you add more charges in the same place/ in different places?
 
