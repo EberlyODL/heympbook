@@ -9,9 +9,9 @@ To find the electric force felt by an object with some electric charge q (positi
 
 Here is the electric field simulation again. This time use it to look at forces. The sensor is actually a positive charge. The arrow shows the strength of the force it feels. (If you put a charge on the screen and a sensor, how does the force does the charge feel  compare to the force the sensor feels?)
 
->> Note that the electric field that the charge q feels, is not the electric field created by q - it is caused by other charges! A charge can not feel its own electric field, only the field caused by other charges. This is the same for forces - an object can only feel a force acting on it due to other objects pushing or pulling it.
-
 <iframe src="https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+>> Note that the electric field that the charge q feels, is not the electric field created by q - it is caused by other charges! A charge can not feel its own electric field, only the field caused by other charges. This is the same for forces - an object can only feel a force acting on it due to other objects pushing or pulling it.
 
 Here is a question to test your understanding:
 
