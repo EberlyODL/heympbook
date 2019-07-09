@@ -4,7 +4,7 @@ The nuclear force acts very much like a box. It is a very strong force at the ou
 
 Nuclear physicists call this the **Shell Model** and, while it is rudimentary, it does capture most of the important phenomena about nuclear physics.
 
-> In the shell model, we imagine that protons are neutrons free to roam around inside the nucleus but hard to get out. Note that this very different than the artistic representation often depicted where protons and neutrons are stuck together. Second, the combination of 2 protons and 2 neutrons (called and alpha particle) turns out to be very stable and we can model the nucleus as having such bound states inside of it. 
+> In the shell model, we imagine that protons are neutrons free to roam around inside the nucleus but hard to get out. Note that this very different than the artistic representation often depicted where protons and neutrons are stuck together. Second, the combination of 2 protons and 2 neutrons (called and alpha particle) turns out to be very stable and we can model the nucleus as having such bound states inside of it.
 
 ## Average Binding Energy per Nucleon
 
