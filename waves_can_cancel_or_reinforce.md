@@ -3,7 +3,7 @@ Imagine an earthquake (which is a wave) coming to you. Or rather, let us imagine
 Yes, in fact all types of waves can add up or cancel and this story about earthquakes waves cancelling is not as crazy as it sounds. In many earthquakes, you will often find buildings untouched while right next to them you find only rubble. Usually this happens when the earthquake wave bounces on something and interacts back with itself. In some lucky places, it can cancel completely.
 
 
-Adding two or more waves together to get cancellation (smaller amplitude) and reinforcement (bigger amplitude) is called interference. Below is an example of intereference from music.
+Adding two or more waves together to get cancellation (smaller amplitude) and reinforcement (bigger amplitude) is called interference. Below is an example of interference from music.
 
 ## Beats
 
