@@ -16,7 +16,7 @@ We define the average binding energy as the average energy we need to shake the 
 
 We have experimentally measured the average binding energy for nucleons in each element of the periodic table and the result is shown in Fig. "All Average Binding Energies".
 
-[ciscode|rev=1|tool=elmsmedia|item=839|entity_type=node|render=display_mode|display_mode=image]
+[ciscode|rev=1|tool=elmsmedia|item=839|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
 [ciscode|rev=1|tool=elmsmedia|item=2701|entity_type=node|render=display_mode|display_mode=h5p]
  
