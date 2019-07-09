@@ -2,10 +2,10 @@ M: Alright, we now have all the tools to understand the first two basic types of
 
 Let us summarize:
 
-1. The nucleus is a potential energy well. The source of this energy is the attractive nuclear force which is stronger than the electric repulsion between the protons, but it is very short range.
-2. Each nucleus has some average binding energy (potential energy). Helium is unusually stable and so protons and neutrons like to group themselves in bunches of four (alpha particles or helium nuclei) inside the nucleus.
+1. The nucleus is a potential energy minimum (shaped like a box - called a potential energy well). The source of this energy is the attractive nuclear force which is stronger than the electric repulsion between the protons, but it is very short range.
+2. Each nucleus has some average binding energy (potential energy). Helium is unusually stable and so protons and neutrons like to group themselves in bunches of four (alpha particles or helium nuclei) inside the nucleus. The deeper the box (well), the higher the binding energy.
 3. The most stable atom is iron. Atoms below iron would like to grab some alpha particles, but this is very rare. Atoms bigger than iron can eject an alpha particle to become more stable.
-4. Alpha particles are stuck inside the potential well (see Fig. "Alpha Radiation") but sometimes they can randomly get out of the nucleus - lets look at when that happens.
+4. Alpha particles are stuck inside the nuclear potential well (see Fig. "Alpha Radiation") but sometimes they can randomly get out of the nucleus - lets look at when that happens.
 
 > Because the total energy of the alpha particles is less than what you need to be able to get out of the potential energy well, the ultimate mechanism for alpha radiation relies on quantum tunneling which we will not cover in this class— <a href="https://www.youtube.com/watch?v=cTodS8hkSDg" target="_blank">look here</a> if you want to learn more about it.
 
@@ -40,7 +40,7 @@ The other type of nuclear radiation is a photon. To understand why, we need to g
 
 [ciscode|rev=1|tool=elmsmedia|item=911|entity_type=node|render=display_mode|display_mode=image]
 
-The energy in the square box goes like <lrn-math> E_n = n^2 E_1</lrn-math>, where <lrn-math>E_1</lrn-math> is the ground state energy which depends on the size of the box. The ground state energy goes like <lrn-math>E_1 \propto 1/L^2</lrn-math>. Therefore, the smaller the size of the box, L, the bigger the energy. Comparing the nucleus to the electron energies, we can see that because the nucleus is so much smaller than the atom, the ground state energy is much bigger and the energy of the photon emitted is bigger as well.
+The energy in a square box goes like <lrn-math> E_n = n^2 E_1</lrn-math>, where <lrn-math>E_1</lrn-math> is the ground state energy which depends on the size of the box. The ground state energy goes like <lrn-math>E_1 \propto 1/L^2</lrn-math>. Therefore, the smaller the size of the box, L, the bigger the energy. Comparing the nucleus size to the electron size, we can see that because the nucleus is so much smaller than the atom, the ground state energy is much bigger and the energy of a photon emitted will be bigger as well.
 
 A typical electron transition in an atom creates photons with energy of about 1 eV. Via <lrn-math>E=hf</lrn-math>, this amount of energy corresponds to frequencies of about <lrn-math>10^{14}</lrn-math> Hz, or visible light.
 
