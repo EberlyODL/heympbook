@@ -1,6 +1,3 @@
-##Newsflash:
-I had to chose this article to talk about Neutrinos during our week about forces. Why? Because Neutrino's seemingly don't feel any forces! This makes them very hard to see and detect. Read this article to learn more. [What are Neutrinos and Why do they matter](https://www.space.com/41142-what-are-neutrinos-why-they-matter.html)
-
 
 ## Summary:
 The four fundamental forces of Nature are:
