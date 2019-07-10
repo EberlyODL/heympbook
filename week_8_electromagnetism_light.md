@@ -19,6 +19,6 @@ This week we actually have 2 news articles because Climate Change is an ever evo
 
 
 - the article above is from 2013, just 2 years later the tide changed again:
-< a href="https://www.noaa.gov/media-release/science-publishes-new-noaa-analysis-data-show-no-recent-slowdown-in-global-warming" target="_blank"> The plateau is gone </a>
+<a href="https://www.noaa.gov/media-release/science-publishes-new-noaa-analysis-data-show-no-recent-slowdown-in-global-warming" target="_blank"> The plateau is gone </a>
 
 
