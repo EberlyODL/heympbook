@@ -1,8 +1,8 @@
 The articles for this week are
 
 - <a href="http://www.nytimes.com/2013/06/11/science/earth/what-to-make-of-a-climate-change-plateau.html?ref=greenhousegasemissions&_r=0&pagewanted=print" target="_blank">Greenhouse Effect and Climate Change</a>
-- and 
-< a href="https://www.noaa.gov/media-release/science-publishes-new-noaa-analysis-data-show-no-recent-slowdown-in-global-warming" target="_blank"> The plateau is gone </a>
+- and
+<a href="https://www.noaa.gov/media-release/science-publishes-new-noaa-analysis-data-show-no-recent-slowdown-in-global-warming" target="_blank"> The plateau is gone </a>
 
 
 The Greenhouse effect is the warming of the atmosphere due to the way the gases in the atmosphere balance the earth’s and the sun’s radiation. In a nutshell, the greenhouse effect has the following three steps:
