@@ -7,3 +7,9 @@ Solar cell technology is a field of very active research nowadays. If we average
 
 There is a lot of energy to be gathered from the sun!
 
+
+After you read the Newsflash, think back to the article about the 2003 Blackout and the electric power grid. One of the big questions of the time is how to incorporate solar cell technology into the power grid. It is not as easy as it sounds, and it relies on another technology scientist are still improving- batteries! Check out this video about solar power and the power grid.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYLzss58CLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
