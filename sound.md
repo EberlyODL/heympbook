@@ -1,10 +1,6 @@
 So, how do waves travel? What do you think?
 <iframe src="https://h5p.org/h5p/embed/81013" width="1091" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
- 
-- M: Remember that a wave is just the disturbance that is traveling. The atoms in the medium in which the wave is (the disturbance) do move a bit, but, on average, they don’t go anywhere.
-- S: It makes sense. When I go to the beach, I get waves after waves hitting me, but it's really always the same molecules of water each time.
-- M: That's right. Another good example is sound.
 
 ## Sound
 
@@ -19,8 +15,12 @@ When you vibrate a tuning fork or a string, you create regions of _compression_ 
 
 <iframe src="https://h5p.org/h5p/embed/81012" width="1091" height="292" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+ 
+- M: Remember that a wave is just the disturbance that is traveling. The atoms in the medium in which the wave is (the disturbance) do move a bit, but, on average, they don’t go anywhere.
+- S: It makes sense. When I go to the beach, I get waves after waves hitting me, but it's really always the same molecules of water each time.
+- M: That's right. Another good example is sound.
 
-If you vibrate the guitar string twice as slow (reduce the frequency by two) then the distance between the compressed regions will be twice as big (you would double <lrn-math>\lambda</lrn-math>).
+Back to making sound. Sound comes from vibrations. If you vibrate the guitar string twice as slow (reduce the frequency by two) then the distance between the compressed regions will be twice as big (you would double <lrn-math>\lambda</lrn-math>).
 
 Just as for any waves, we have:
 
@@ -35,3 +35,6 @@ This is the same speed as the average speed of molecules in air.
 
 - S: I learned last week that if I increase the temperature, I give more kinetic energy to the atoms in the gas. If they have more kinetic energy, then they will move faster... so does that means that sound travels faster on a hot day?
 - M: Yes, it does! Pretty cool, isn't it?
+
+
+> Notice that changing the frequency of sound waves does not change the speed of the sound traveling in air. What would an orchestra sound like if all the different pitches (frequencies) traveled to your ear at different speeds? Pretty terrible, can you see why?
