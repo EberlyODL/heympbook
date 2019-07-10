@@ -1,3 +1,6 @@
+How do sound waves travel? here are 2 questions to get you thinking about it.
+
+
 <iframe src="https://h5p.org/h5p/embed/81012" width="1091" height="292" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <iframe src="https://h5p.org/h5p/embed/81013" width="1091" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -7,7 +10,7 @@
 - S: It makes sense. When I go to the beach, I get waves after waves hitting me, but it's really always the same molecules of water each time.
 - M: That's right. Another good example is sound.
 
-## Sound 
+## Sound
 
 Sound is a disturbance in the pressure of the air.
 
@@ -23,7 +26,7 @@ Just as for any waves, we have:
 
 <lrn-math> v_{sound} = \lambda f</lrn-math>
 
-## Speed of Sound 
+## Speed of Sound
 
 What is the speed of a sound wave? When you see lightning outside, it often takes a while to hear the thunder. We saw this already in week 1. The speed of sound at normal temperature and pressure is
 
