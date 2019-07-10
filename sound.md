@@ -37,4 +37,4 @@ This is the same speed as the average speed of molecules in air.
 - M: Yes, it does! Pretty cool, isn't it?
 
 
-> Notice that changing the frequency of sound waves does not change the speed of the sound traveling in air. What would an orchestra sound like if all the different pitches (frequencies) traveled to your ear at different speeds? Pretty terrible, can you see why?
+> Notice that changing the frequency of sound waves does not change the speed of the sound traveling in air - on the last page we mentioned that speed is determined by the medium. What would an orchestra sound like if all the different pitches (frequencies) traveled to your ear at different speeds? Pretty terrible, can you see why?
