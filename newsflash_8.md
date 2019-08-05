@@ -1,4 +1,4 @@
-# # The discovery of the Higgs particle.
+## The discovery of the Higgs particle.
 As you probably have heard, the LHC was turned on a few years ago (and despite concerns, the world did not end), producing invaluable data for quite a while now, and the Higgs boson was discovered as expected! (maybe unexpected ones are to come?).
 I recommend this short video by Brian Greene on the Higgs field and the Higgs particle.
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/tcHz3o4t6Rk" width="560"></iframe>
