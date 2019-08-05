@@ -32,17 +32,4 @@ At these locations where the protons are allowed to collide, the result is a sho
 
 [ciscode|rev=1|tool=elmsmedia|item=2632|entity_type=node|render=display_mode|display_mode=image]
 
-## Discovery of new particles - the Higgs Boson
-The LHC was turned on a few years ago (and despite concerns, the world did not end), producing invaluable data for quite a while now, and the Higgs boson was discovered as expected! (maybe unexpected ones are to come?).
-I recommend this short video by Brian Greene on the Higgs field and the Higgs particle.
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/tcHz3o4t6Rk" width="560"></iframe>
-Maybe the collider will detect new physics. One always has to be careful in science and discoveries take a while.
-## Extra resources:
-- Look at this very good <a href="http://news.bbc.co.uk/2/hi/7543089.stm" target="_blank">Intro to LHC</a> from BBC news.
-
-
-- Before they turned the LHC on in 2008, some were concerned about it destroying the world. This produced <a href="http://hasthelargehadroncolliderdestroyedtheworldyet.com/">memes </a> in the science community, but was indeed a big deal. If you are interested here's a link to read: <a href="http://www.businessinsider.com/will-the-lhc-destroy-the-earth-2015-4" target="_blank"> Will the LHC destroy the earth? </a>. Thankfully, the scientists were right.
-
-
-
 
