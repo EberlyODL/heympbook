@@ -14,3 +14,6 @@ Newsflash 1, read this article and answer the questions below:
 - The world's smallest movie (moving atoms one by one)!
 [ciscode|rev=1|tool=elmsmedia|item=4707|entity_type=node|render=display_mode|display_mode=mediavideo]
 
+
+* Bonus: After spelling IBM with atoms.. where has the Scanning Tunneling Microscope taken us? Here is a short list from [Science Direct](https://www.sciencedirect.com/topics/materials-science/scanning-tunneling-microscopy)
+
