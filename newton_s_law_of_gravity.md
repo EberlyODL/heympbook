@@ -27,7 +27,9 @@ You remember that force is just change of momentum
 
 The case of gravity is special because the force depends on the mass <lrn-math>(F = mg) </lrn-math>so you can cancel it on both sides! You get
 
-<lrn-math> mg \Delta t = m \Delta v </lrn-math> 
+<lrn-math> mg \Delta t = m \Delta v </lrn-math> ,
+
+
 
 <lrn-math> g \Delta t = \Delta v </lrn-math>
 
