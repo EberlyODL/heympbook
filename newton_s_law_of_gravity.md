@@ -2,7 +2,7 @@ Newton was the first to correctly describe the force of gravity that Galileo was
 
 <lrn-math> F_g = m g</lrn-math>
 
-where the constant <lrn-math>g = 9.8\; m/s^2</lrn-math> is known as the gravitational acceleration (technically this value of <lrn-math>g</lrn-math> only works on the surface of the earth). <lrn-math>F_g</lrn-math> is the force of gravity or the **weight** of an object and it should not be confused with mass! I remind you that the SI unit of Force is called the Newton. 
+where the constant <lrn-math>g = 9.8\; m/s^2</lrn-math> is known as the gravitational acceleration (technically this value of <lrn-math>g</lrn-math> only works on the surface of the earth). <lrn-math>F_g</lrn-math> is the force of gravity or the **weight** of an object and it should not be confused with mass! I remind you that the SI unit of Force is called the Newton.
 
 - Weight is measured in pounds (lbs) or Newton (N). These are both units of force.
 - Mass is measured in kilogram.
@@ -28,6 +28,7 @@ You remember that force is just change of momentum
 The case of gravity is special because the force depends on the mass <lrn-math>(F = mg) </lrn-math>so you can cancel it on both sides! You get
 
 <lrn-math> mg \Delta t = m \Delta v </lrn-math> 
+
 <lrn-math> g \Delta t = \Delta v </lrn-math>
 
 The conclusion is that the time it takes to fall only depends on the velocity (and the constant g). The only thing that matters is whether the hammer and the feather are *thrown* downward or simply dropped. The mass of the object is irrelevant for the time it takes to free fall!
