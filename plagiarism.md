@@ -1,4 +1,4 @@
-I would like to emphasize one part of the academic integrity principle of Penn State about plagiarism. 
+I would like to emphasize one part of the academic integrity principle of Penn State about plagiarism.
 
 [ciscode|rev=1|tool=elmsmedia|item=1052|entity_type=node|render=display_mode|display_mode=image]
 
@@ -22,13 +22,13 @@ These are pretty clear cut violations of Penn State academic principles. What ab
 
 <iframe src="https://h5p.org/h5p/embed/74906" width="1090" height="484" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
  
-**How to avoid this.** Be careful with how you take notes - avoid typing while reading. The best way to know you are writing with your own words is to close your source (book, browser, etc) while writing the notes. 
+**How to avoid this.** Be careful with how you take notes - avoid typing while reading. The best way to know you are writing with your own words is to close your source (book, browser, etc) while writing the notes.
 
 ### Consequences of Plagiarism
 
 In the real world, you can get sued, lose your job or lose your reputation. You can find on this Wikipedia [page](http://en.wikipedia.org/wiki/List_of_plagiarism_incidents) many famous examples of plagiarism with very often dire consequences for the person who did it.
 
-For students at Penn State, **plagiarism will** result sanctions. For more on academic integrity see http://science.psu.edu/current-students/Integrity/Policy.html 
+For students at Penn State, **plagiarism will** result sanctions. For more on academic integrity see https://science.psu.edu/current-students/integrity/policies
 
 ### External Resources
 
