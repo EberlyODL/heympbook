@@ -1,4 +1,4 @@
-Lets create some waves. Try the following applet and create waves of all kind on this string. Make sure to try the pulse button with no damping. You can try to find how to make waves move faster!
+Lets create some waves. Try the following applet and create waves of all kind on this string. Make sure to try the pulse button with no damping. You can try to find how to make waves move faster! (make sure flash is enabled!)
 
 <iframe frameborder="0" height="600" scrolling="no" src="https://phet.colorado.edu/sims/wave-on-a-string/wave-on-a-string_en.html" width="800"></iframe>
 
