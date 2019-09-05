@@ -30,7 +30,4 @@ Things to remember about antiparticles:
 
 - We have recently learned that antimatter is sometime produced naturally in big electric storms!
 
-<iframe allowfullscreen="" frameborder="0" height="480" mozallowfullscreen="" src="//commons.wikimedia.org/wiki/File:Antimatter_Explosions_2.ogv?embedplayer=yes" webkitallowfullscreen="" width="854"></iframe>
-
-
 [ciscode|rev=1|tool=elmsmedia|item=5132|entity_type=node]
