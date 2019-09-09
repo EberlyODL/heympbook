@@ -11,10 +11,10 @@ This is very important. A force is an interaction between 2 objects. There are a
 
 This is the most misunderstood of the three laws. It says that if there is no force acting on a object, the object will remain in motion at constant velocity and travel in a straight line.
 
-This law essentially defined the notion of an inertial reference frame as we discussed in the week about space-time. At observer moving at constant velocity is an observer for which the laws of Nature look the same as if the velocity was zero (observer at rest). 
+This law essentially defined the notion of an inertial reference frame as we discussed in the week about space-time. At observer moving at constant velocity is an observer for which the laws of Nature look the same as if the velocity was zero (observer at rest).
 
 
-Below is an example showing clearly how a dinosaur on a trampoline wants to remain at rest! Gravity is of course pulling it downward, but it takes a few frames in the high speed camera before we can see the change in motion. When the trampoline hits the dinosaur again, the change in motion is quite fast indicating a large force!
+Below is an example showing how a dinosaur on a trampoline wants to remain in a state of uniform motion(at rest - zero velocity)! Gravity is of course pulling it downward, but it takes a few frames in the high speed camera before we can see the change in motion. When the trampoline hits the dinosaur again, the change in motion is quite fast indicating a large force!
 [ciscode|rev=1|tool=elmsmedia|item=5133|entity_type=node|render=display_mode|display_mode=image]
 
 ### The Second Law.
