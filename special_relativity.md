@@ -4,10 +4,10 @@ What Einstein did with special relativity is to propose to extend the old relati
 
 > _Principle of Relativity (ala Newton): All the laws of physics (not just mechanics) are the same for all observers moving at constant velocity._
 
-From this principle, the theory of special relativity follows. Here is the logic for special relativity: 
+From this principle, the theory of special relativity follows. Here is the logic for special relativity:
 
 1. Maxwell's theory of electricity is true for all observers moving at constant speed.
-2. Maxwell's theory predicts that light travels at <lrn-math> c= 299,792,458\;  m/s</lrn-math>.
+2. Maxwell's theory predicts that light travels at <lrn-math><span> c= 299,792,458\;  m/s </span></lrn-math>.
 3. Therefore, **light travels at speed c as seen by all observers moving at constant speed**.
 
 - M: This means that for any experiments, irrespective of the speed the observers are moving, the observer will measure the speed of light to be c.
@@ -20,7 +20,7 @@ From this principle, the theory of special relativity follows. Here is the logic
 
 ## How to add  speeds: \*\* this is optional \*\*, your book also discusses this.
 
-Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Lets go back to Marie's example: Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground <lrn-math>v_{TG} = c/2</lrn-math>, the speed of the light with respect to the train <lrn-math>v_{cT}</lrn-math> is c and the speed of light with respect to the ground <lrn-math>v_{cG}</lrn-math> must also be c. 
+Einstein's principle of relativity says that the speed of light is measured to be the same for all observers moving at constant velocity. Lets go back to Marie's example: Imagine I turn on a flashlight in a train moving at the speed of c/2 with respect to the ground <lrn-math>v_{TG} = c/2</lrn-math>, the speed of the light with respect to the train <lrn-math>v_{cT}</lrn-math> is c and the speed of light with respect to the ground <lrn-math>v_{cG}</lrn-math> must also be c.
 
 Clearly the speed of light **does not** satisfy the simple addition of speed that we have seen before.
 
