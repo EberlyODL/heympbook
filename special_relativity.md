@@ -7,7 +7,7 @@ What Einstein did with special relativity is to propose to extend the old relati
 From this principle, the theory of special relativity follows. Here is the logic for special relativity:
 
 1. Maxwell's theory of electricity is true for all observers moving at constant speed.
-2. Maxwell's theory predicts that light travels at <lrn-math><span> c= 299,792,458\;  m/s </span></lrn-math>.
+2. Maxwell's theory predicts that light travels at \( c= 299,792,458\;  m/s \).
 3. Therefore, **light travels at speed c as seen by all observers moving at constant speed**.
 
 - M: This means that for any experiments, irrespective of the speed the observers are moving, the observer will measure the speed of light to be c.
