@@ -26,7 +26,10 @@ Look closely at figure 6. The distance the light travels  (as seen by the observ
 
 <lrn-math>\Delta t' > \Delta t </lrn-math>
 
-This is **time dilation**. And it is real. If I measure the time between two events on my watch, and you measure the time between the same two events but I am moving with respect to you, the time you measure will be longer than mine. 
+This is **time dilation**. And it is real. If I measure the time between two events on my watch, and you measure the time between the same two events but I am moving with respect to you, the time you measure will be longer than mine.
+
+A good (but old) video showing this example is <a href="https://www.youtube.com/watch?v=KHjpBjgIMVk&feature=youtu.be&t=4s"> here </a>
+
 
 
 There is a second part to this. If you are moving (in a fast moving space-ship), and events are happening on your space-ship. They will appear to me to take a much longer time to an outside observer, than they appear to you! Which ever observer sees the bigger change in distance, will see the time take longer. The consequence of this is something surprising and fun: fast moving things age less than stationary things (time slows down for moving things)!
