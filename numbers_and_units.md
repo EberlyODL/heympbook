@@ -24,7 +24,7 @@ If the number in the exponent is positive then there is no decimal. For example 
 
 Note that up to now we used only 1 and 0, but of course we could have
 
-3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters. 
+3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.
 6 nanometers, which is <lrn-math>6 \times 10^{-9}</lrn-math> meters or 0.000000006 meters.
 
 When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
@@ -46,7 +46,7 @@ Here is a good video from Derek of Veritasium reviewing many of the concepts we 
 [ciscode|rev=1|tool=elmsmedia|item=4706|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 The direct hyperlink to the Youtube video is https://www.youtube.com/watch?time_continue=3&v=57z0NIPAtpo
-<iframe src="https://h5p.org/h5p/embed/106456" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5152|entity_type=node|render=display_mode|display_mode=h5p]pt>
 
 ### Systems of Units
 
