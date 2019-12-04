@@ -13,8 +13,12 @@ Gravitational waves were finally detected directly in 2015. Almost a century aft
 
 In the couple of turns just before the collision, the pair of stars or black holes emit large amount of energy in the form of gravitational waves. These waves are ripples in spacetime. Our best hope to detect them is to have a very precise measurement of a particular distance and to see whether this "distance meter" changes or fluctuates as a gravitational wave pass by. This is what a gravitational wave would do. It would change the length of a meter very, very slightly.
 
-The LIGO experiment has two detectors: one in Livingston, Louisiana and the other one at the Hanford Observatory near Richland, Washington. The both have two long " measurement arms" with powerful and precise lasers going through each arm. By looking at destructive and constructive interference of the lasers going down those arms, the LIGO scientists are able to measure the distance of each arm very precisely (and look for changes!). 
+The LIGO experiment has two detectors: one in Livingston, Louisiana and the other one at the Hanford Observatory near Richland, Washington. The both have two long " measurement arms" with powerful and precise lasers going through each arm. By looking at destructive and constructive interference of the lasers going down those arms, the LIGO scientists are able to measure the distance of each arm very precisely (and look for changes!).
 
 [ciscode|rev=1|tool=elmsmedia|item=897|entity_type=node|render=display_mode|display_mode=image]
 
 [ciscode|rev=1|tool=elmsmedia|item=898|entity_type=node|render=display_mode|display_mode=image]
+
+
+Gravitational wave measurements are so exciting, that they almost immediately were nominated for (and won) a < a href="https://cen.acs.org/articles/95/web/2017/10/Detection-of-gravitational-waves-wins-2017-Nobel-Prize-in-Physics.html">Nobel Prize in 2017 </a>
+
