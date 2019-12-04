@@ -20,5 +20,6 @@ The LIGO experiment has two detectors: one in Livingston, Louisiana and the othe
 [ciscode|rev=1|tool=elmsmedia|item=898|entity_type=node|render=display_mode|display_mode=image]
 
 
-Gravitational wave measurements are so exciting, that they almost immediately were nominated for (and won) a < a href="https://cen.acs.org/articles/95/web/2017/10/Detection-of-gravitational-waves-wins-2017-Nobel-Prize-in-Physics.html">Nobel Prize in 2017 </a>
+Gravitational wave measurements are so exciting, that they almost immediately were nominated for (and won) a 
+<a href="https://cen.acs.org/articles/95/web/2017/10/Detection-of-gravitational-waves-wins-2017-Nobel-Prize-in-Physics.html">Nobel Prize in 2017 </a>
 
