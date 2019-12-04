@@ -48,9 +48,7 @@ Let's see how this could work. Imagine that the electrons in a metal like zinc a
 
 [ciscode|rev=1|tool=elmsmedia|item=2226|entity_type=node|render=display_mode|display_mode=image]
 [ciscode|rev=1|tool=elmsmedia|item=5149|entity_type=node|render=display_mode|display_mode=h5p]
-
-
-<iframe src="https://h5p.org/h5p/embed/126553" width="1090" height="348" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5150|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 Video: The video below relates the "wave" properties of light to the photon energy to tie it all together.
