@@ -1,11 +1,11 @@
 ### Mass
 
-We observe that some objects or particle are easier to move than others. The resistance to changing the state of motion (either stopping or accelerating) is called inertia. 
+We observe that some objects or particle are easier to move than others. The resistance to changing the state of motion (either stopping or accelerating) is called inertia.
 
-We can quantify the inertia of various objects with a parameter called, "the inertial mass" or just "mass". 
-An object with more mass has more inertia and is thus harder to stop if it is already moving or harder to accelerate if it is not moving. 
+We can quantify the inertia of various objects with a parameter called, "the inertial mass" or just "mass".
+An object with more mass has more inertia and is thus harder to stop if it is already moving or harder to accelerate if it is not moving.
 
-The unit for mass is the kilogram (denoted) kg. This is the SI unit. SI stands for Systeme International. This is the standard unit used in science and what we will often use in this class. 
+The unit for mass is the kilogram (denoted) kg. This is the SI unit. SI stands for Systeme International. This is the standard unit used in science and what we will often use in this class.
 
 To give you a sense of scale, a typical human as a mass of 75 kg. Since the atoms are really small, they have a correspondingly very small mass. What is the mass of an atom? First lets look at an atom's parts.
  
@@ -13,7 +13,7 @@ To give you a sense of scale, a typical human as a mass of 75 kg. Since the atom
 
 - **Electrons**: Our good friend the electron will be with us for the whole class. The electron has no fundamental substructure as far as we know. It is truly a fundamental particle and its motion is the source of all electricity in your daily life. We will study the electron a lot in this class. It has a negative electric charge and it has a mass of  <lrn-math>9 \times 10^{-31} </lrn-math> kg.
 - **Protons**. The proton is much bigger and much more massive than the electron. It is not truly fundamental, it is made of something else but this won't matter for us now. It has electric charge and a mass of  <lrn-math>(1.7\times 10^{-27} </lrn-math> kg. It is 2000 times heavier than the electron!
-- **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It does not have electric charge (we say it is neutral) and its mass is  <lrn-math>1.7\times 10^{-27} </lrn-math> kg (almost the same as the protons and thus much heavier than the electron). 
+- **Neutrons**: The neutron is very much like the proton. The main crucial difference is that the neutron is electrically neutral. It does not have electric charge (we say it is neutral) and its mass is  <lrn-math>1.7\times 10^{-27} </lrn-math> kg (almost the same as the protons and thus much heavier than the electron).
 
 ### Putting Them Together
 
@@ -38,7 +38,7 @@ In addition to protons (with positive electric charge) and electrons (with negat
 - S: But then particles with the same charge should repel themselves, right? So, what keeps the protons stuck together in the nucleus?
 - M: Very good question! Indeed protons and electrons are attracted to each other because of the electric forces and two protons do in fact repulse each other. So what do you think is happening?
 
-<iframe src="https://h5p.org/h5p/embed/75091" width="658" height="338" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5161|entity_type=node|render=display_mode|display_mode=h5p]
 
 ### Isotopes and Ions
 
