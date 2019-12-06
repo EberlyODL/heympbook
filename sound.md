@@ -1,5 +1,5 @@
 So, how do waves travel? What do you think?
-<iframe src="https://h5p.org/h5p/embed/81013" width="1091" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5167|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 ## Sound
@@ -13,7 +13,7 @@ Sound is a disturbance in the pressure of the air.
 When you vibrate a tuning fork or a string, you create regions of _compression_ and of _rarefaction_. These are the crests and troughs of the wave. Those compressions and rarefactions then travel away from the tuning fork through the air in all directions. If they hit your ear drum... it vibrates, and you hear the sound!
 
 
-<iframe src="https://h5p.org/h5p/embed/81012" width="1091" height="292" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5168|entity_type=node|render=display_mode|display_mode=h5p]
 
  
 - M: Remember that a wave is just the disturbance that is traveling. The atoms in the medium in which the wave is (the disturbance) do move a bit, but, on average, they don’t go anywhere.
