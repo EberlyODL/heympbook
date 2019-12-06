@@ -17,4 +17,4 @@ There is a lot of information that you need to be able to pick up from this grap
 - Period T = time to repeat oscillation (e.g., peak to peak)
 - Frequency f = 1/T. This is the number of oscillations per seconds. The units for frequency are Hertz.
 
-<iframe src="https://h5p.org/h5p/embed/80918" width="1090" height="507" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5165|entity_type=node|render=display_mode|display_mode=h5p]
