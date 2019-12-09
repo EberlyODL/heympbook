@@ -15,11 +15,7 @@ Here is the electric field simulation again. This time use it to look at forces.
 
 Here is a question to test your understanding:
 
-<iframe src="https://h5p.org/h5p/embed/84196" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
- 
-
-
-
+[ciscode|rev=1|tool=elmsmedia|item=5179|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 > Even though the proton and electron have very different masses (by a factor of a thousand), the magnitude of their electric charge is the same at <lrn-math>e = \pm 1.602\times10^{-19}</lrn-math> C. They usually feel the same magnitude of the electric force but in different directions.
