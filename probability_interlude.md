@@ -4,7 +4,7 @@ Imagine the following situation: You are blindfolded and throwing darts at a dar
 
 [ciscode|rev=1|tool=elmsmedia|item=2237|entity_type=node|render=display_mode|display_mode=image__left]
 
-<iframe src="https://h5p.org/h5p/embed/88836" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5192|entity_type=node|render=display_mode|display_mode=h5p]
 
 ## Defining Probability
 
