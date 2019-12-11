@@ -6,7 +6,7 @@ and
 
 **A changing magnetic field B creates an electric field E**
 
-The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see now. 
+The first is how a current of electrons can create an electromagnet. The latter is the key to understand the electric generator and the transformer as we will see now.
 
 Download the following simulation directly from the <a href="https://phet.colorado.edu/en/simulation/faraday" target="_blank">Phet website</a>
 
@@ -21,11 +21,11 @@ Now look at the electromagnet tab. There you will find a battery that generates 
 
 - M: The last two tabs are what make our electric grid possible. First, let's look a the generator. Go to the last tab and turn the faucet.
 - S: Okay. I guess the water turns the bar magnet continuously, which then creates a current.
-- M: Yes. The faster the magnet turns, the more current. 
+- M: Yes. The faster the magnet turns, the more current.
 
 [ciscode|rev=1|tool=elmsmedia|item=2164|entity_type=node|render=display_mode|display_mode=image]
 
-<iframe src="https://h5p.org/h5p/embed/85349" width="1090" height="276" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5182|entity_type=node|render=display_mode|display_mode=h5p]
 
 - S: So, that's why we use AC (alternating current).
 - M: Well, actually, there is a more important reason why, but that is indeed how it works....
@@ -45,7 +45,7 @@ This is a great tool as it allows us to change the voltage very efficiently.
 - S: Is there some kind of flow of energy in there?
 - M: Yes! The electrons coming in have kinetic energy, which they lose in creating the B field (the kinetic energy of the electron goes into the B field). The changing B field then moves the electrons in the blue loop.
 - M: So, we have kinetic energy in red loop -> energy of magnetic field -> kinetic energy of electron in blue loop.
-- S: Hmmm. I guess that magnetic field is a real thing then! 
+- S: Hmmm. I guess that magnetic field is a real thing then!
 
 In the following demo, Dr. Leblond shows us a transformer in action!
 
@@ -65,5 +65,5 @@ The transformer only works with AC current and this is ultimately why that's the
 
 
 - S: Wait, I though current was dangerous, not voltage. Why do we have to worry about those "Danger High Voltage" signs?
-- M: Well, this goes back to resistance and Ohm's Law <lrn-math>(I=V/R)</lrn-math>. High voltage will create a big current, even if your resistance is also large. So, its dangerous all the time, wet hands or dry hands. 
+- M: Well, this goes back to resistance and Ohm's Law <lrn-math>(I=V/R)</lrn-math>. High voltage will create a big current, even if your resistance is also large. So, its dangerous all the time, wet hands or dry hands.
 - S: I'll be sure to stay away!
