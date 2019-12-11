@@ -13,4 +13,4 @@ If you play music, you may know that you can tune your instrument by playing you
 
 ## Interference Practice
 
-<iframe src="https://h5p.org/h5p/embed/81023" width="1091" height="639" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5193|entity_type=node|render=display_mode|display_mode=h5p]
