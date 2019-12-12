@@ -24,7 +24,7 @@ If the number in the exponent is positive then there is no decimal. For example 
 
 Note that up to now we used only 1 and 0, but of course we could have
 
-3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.  
+3 kilometers, which is <lrn-math>3 \times 10^3</lrn-math> meters or 3000 meters.
 6 nanometers, which is <lrn-math>6 \times 10^{-9}</lrn-math> meters or 0.000000006 meters.
 
 When you multiply or add large numbers in exponential forms, you just add or subtract the exponents!
@@ -36,16 +36,17 @@ When you multiply or add large numbers in exponential forms, you just add or sub
 - S: Hmm. . . It's large.
 - M: Indeed, it's huge! The line would stretch 10,000 times around the whole circumference of the Earth. Yet you have many, many moles of water molecule in a glass water, how does that make sense?
 - S: I guess the atoms are not on a line in my glass of water.
-- M: Indeed, and they are not touching that close, and they are bigger. It's really important to think about numbers and their meaning in physics. And with the really big and really small ones, it can be very hard to visualize them!
+- M: Indeed, and they are not touching that close, and they are bigger. To figure out how many atoms are in your water you'd have to think about the volume of the water - length times width times height, each of those dimensions can fit a large number of atoms. Multiplying the number of atoms in the length times number of atoms in the width times the number of atoms in the height give you that big number! It's really important to think about numbers and their meaning in physics. And with the really big and really small ones, it can be very hard to visualize them!
 
 ### A Sense of Scale
 
-To get a sense of scale and how big and small things compare, look at the following web resources. The [ Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe.
+To get a sense of scale and how big and small things compare, look at the following web resources. The [ Scale of the Universe website](http://www.onemorelevel.com/game/scale_of_the_universe_2012) offers a game that lets you zoom in and out in the universe (flash required, make sure you have it enabled!).
 
 Here is a good video from Derek of Veritasium reviewing many of the concepts we have just discussed regarding scientific notation followed by an order of magnitude question.
-[ciscode|rev=1|tool=elmsmedia|item=2065|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
+[ciscode|rev=1|tool=elmsmedia|item=4706|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-<iframe src="https://h5p.org/h5p/embed/106456" width="1090" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+The direct hyperlink to the Youtube video is https://www.youtube.com/watch?time_continue=3&v=57z0NIPAtpo
+[ciscode|rev=1|tool=elmsmedia|item=5152|entity_type=node|render=display_mode|display_mode=h5p]pt>
 
 ### Systems of Units
 

@@ -1,5 +1,9 @@
-The article for this week is
-<a href="http://www.nytimes.com/2013/06/11/science/earth/what-to-make-of-a-climate-change-plateau.html?ref=greenhousegasemissions&_r=0&pagewanted=print" target="_blank">Greenhouse Effect and Climate Change</a>
+The articles for this week are
+
+- <a href="http://www.nytimes.com/2013/06/11/science/earth/what-to-make-of-a-climate-change-plateau.html?ref=greenhousegasemissions&_r=0&pagewanted=print" target="_blank">Greenhouse Effect and Climate Change</a>
+- and
+<a href="https://www.noaa.gov/media-release/science-publishes-new-noaa-analysis-data-show-no-recent-slowdown-in-global-warming" target="_blank"> The plateau is gone </a>
+
 
 The Greenhouse effect is the warming of the atmosphere due to the way the gases in the atmosphere balance the earth’s and the sun’s radiation. In a nutshell, the greenhouse effect has the following three steps:
 
@@ -11,7 +15,7 @@ The Greenhouse effect is the warming of the atmosphere due to the way the gases 
 
 The net effect is analogous to a car heating up in the parking lot. The layer of greenhouse gases in the atmosphere is like the windshield. It keeps the Earth warm.
 
-<iframe src="https://h5p.org/h5p/embed/85368" width="1090" height="420" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5184|entity_type=node|render=display_mode|display_mode=h5p]
 
 - S: Really? Water is a greenhouse gas? So boiling water is polluting?
 - M: Yes, I guess it is. . . but the thing with water is that it falls back down. The concentration of water vapor--unlike the concentration of CO<sub>2</sub>--does not seem to be increasing non-stop.
@@ -44,7 +48,7 @@ The article that you read referred to a warming plateau. This is the fact that f
 
 Many critics of global warming use this warming plateau to show that the other side is wrong. This is an example _of cherry-picking data_. Cherry picking refers to the act of choosing data that you like and ignoring the data that you don't like. This is an unethical un-scientific behavior.
 
-It is already a very hard exercise with many years of work and analysis by a whole community of scientists to reach the conclusion that global warming is real. 
+It is already a very hard exercise with many years of work and analysis by a whole community of scientists to reach the conclusion that global warming is real.
 
 You may find when reading the news or in conversation someone who just looked at one part of a graph (the temperature graph over the last 10-15 years) and then decided that this means that scientists are wrong, but this is not good science.
 

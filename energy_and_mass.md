@@ -25,15 +25,21 @@ For the energy, Einstein found the following relation, which should remind you o
 <lrn-math>E^2 = (pc)^2+(mc^2)^2</lrn-math>
 
 (this <lrn-math>p</lrn-math> is <lrn-math>\gamma m v</lrn-math> now)
+
 - M: This is the most famous equation in physics.
+
 - S: Hmmm, I thought it was simpler than that.
+
 - M: Let's see. If you want the energy of a particle that is not moving, then <lrn-math>v=0</lrn-math> and <lrn-math>p=0</lrn-math>. Then the formula becomes <lrn-math>E=mc^2</lrn-math>
+
 - S: Now that's a famous equation!
+
 - M: Indeed. What Einstein found is that even when a particle is not moving it has energy proportional to its mass. This means that mass is just a certain form of energy and one can convert between mass and energy!
+
 - M: But it is really just a special case, the general equation is the one above.
 
-### External Resources 
+### External Resources
 
-* Minute Physics has a couple of nice videos regarding special relativity; have a look! 
+Minute Physics has a couple of nice videos regarding special relativity; have a look!
 * <a href="http://www.youtube.com/watch?v=NnMIhxWRGNw&list=PLED25F943F8D6081C&index=4&feature=plcp" target="_blank">Pythagorean Theorem for Energy</a>
 * <a href="http://www.youtube.com/watch?annotation_id=annotation_447492&feature=iv&index=1&list=PLED25F943F8D6081C&src_vid=hW7DW9NIO9M&v=ajhFNcUTJI0" target="_blank">Special Relativity</a>

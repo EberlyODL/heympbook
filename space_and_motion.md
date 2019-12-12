@@ -7,7 +7,7 @@ We are about to see the last building block of nature! After this week we will h
 - S: Hmmm, ok. So what's next, then?
 - M: A pretty important piece actually: Spacetime. This is the fabric on which everything moves. This week we will learn how to describe motion in spacetime and how motion is relative. Different observers see different motions.
 - M: This will lead us to some strange ideas, like time dilation; and it also leads us to reevaluate what we mean by energy and momentum.
-- S: O<span style="line-height: 20.3999996185303px;">h wow. So this week we see why <lrn-math>E=mc^2</lrn-math>?</span>
+- S: Oh wow. So this week we see why <lrn-math>E=mc^{2}</lrn-math>?</span>
 - M: Indeed!
 
 ## Dimensions of Space
@@ -24,9 +24,7 @@ In summary, we live in a Universe with three dimensions of space and one of time
 
 [ciscode|rev=1|tool=elmsmedia|item=976|entity_type=node|render=display_mode|display_mode=image]
 
-<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
-Nobody knows why the Universe is 3+1 dimensional. We could have lived in a Universe with four dimensions of space and one of time (4+1). Or maybe two space dimensions and two time dimensions (2 + 2). Obviously, the laws of physics would change quite a bit if the number of dimensions were different.
-</lrndesign-sidenote>
+> Nobody knows why the Universe is 3+1 dimensional. We could have lived in a Universe with four dimensions of space and one of time (4+1). Or maybe two space dimensions and two time dimensions (2 + 2). Obviously, the laws of physics would change quite a bit if the number of dimensions were different.
 
 ## Moving in space - Review
 

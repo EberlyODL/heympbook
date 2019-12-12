@@ -10,7 +10,7 @@ You want to check whether your prediction agrees with experiments.
 
 To make sure you are doing things right, you take multiple measurements. I did it at home and here are my results for my own pocket watch whose length I measured to be 20 cm.
 
-|Period (s)|Length(m)| Gravitational constant "g" (<lrn-math>m/s^2</lrn-math>)
+|Period (s)|Length(m)| Gravitational constant "g" (<lrn-math>m/s^{2}</lrn-math>)
 |--------
 |0.95|0.2|8.75
 |1.05|0.2|7.16
@@ -20,14 +20,14 @@ To make sure you are doing things right, you take multiple measurements. I did i
 - S: Your measurements of the period are all over the place. They vary a lot.
 - M: Yes right. So, what can we learn from this?
 
-<iframe src="https://h5p.org/h5p/embed/82373" width="1090" height="365" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5173|entity_type=node|render=display_mode|display_mode=h5p]
 
 Random Statistical Errors
 -------------------------
 
 You have just seen the most typical type of error: the statistical error. As its name implies, it is due to the random fluctuations in the measurements. It's source is often easily identifiable and experimentalists work very hard to reduce this ever-present source of uncertainty.
 
-<iframe src="https://h5p.org/h5p/embed/82375" width="1090" height="207" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5174|entity_type=node|render=display_mode|display_mode=h5p]
 
 ## Sample Size
 

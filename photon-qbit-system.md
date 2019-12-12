@@ -23,7 +23,7 @@ The resulting quantum state after the beam splitter is a superposition of the tw
 
 <lrn-math>\lvert \psi \rangle=\frac{1}{\sqrt{2}}\lvert 0\rangle + \frac{1}{\sqrt{2}}\lvert 1\rangle</lrn-math>
 
-The factor of <lrn-math>1/\sqrt{2}</lrn-math> are in fact just <lrn-math>\phi</lrn-math> (pronounced "phi"), the*probability amplitude* associated with the photon wave. If you square the <lrn-math>1/\sqrt{2}</lrn-math>, we get the probabilities. 
+The factor of <lrn-math>1/\sqrt{2}</lrn-math> are in fact just<lrn-math>\phi</lrn-math> (pronounced "phi"), the *probability amplitude* associated with the photon wave. If you square the <lrn-math>1/\sqrt{2}</lrn-math>, we get the probabilities. 
 
 Make sure you understand the notation, I know this is new and strange but the idea under the notation is simplest. A photon in the quantum state <lrn-math>\psi</lrn-math> is a photon whose probability is given by the superposition of two waves.  The photon has probability of 1/2 (50%) of being in either state 0 or state 1. 
 

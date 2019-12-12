@@ -14,7 +14,7 @@ The real wave associated with an electron looks more like the Fig. "Wavepacket":
 
 [ciscode|rev=1|tool=elmsmedia|item=2259|entity_type=node|render=display_mode|display_mode=image]
 
-You can think of a wavepacket has being the sum of a bunch of waves with different wavelength <lrn-math>\Delta \lambda</lrn-math> as you can see in the animation "Making a wavepacket" below.
+You can think of a wavepacket as being the sum of a bunch of waves with different wavelength <lrn-math>\Delta \lambda</lrn-math> as you can see in the animation "Making a wavepacket" below.
 
 [ciscode|rev=1|tool=elmsmedia|item=2261|entity_type=node|render=display_mode|display_mode=image]
 
@@ -34,9 +34,9 @@ This is not magic, it is just a property of waves. To create a localized wavepac
 
 [ciscode|rev=1|tool=elmsmedia|item=2262|entity_type=node|render=display_mode|display_mode=h5p]
 
-## Complementary
+## Complementarity
 
-This is also another example of complementary in quantum mechanics. You should remember that when we discussed photons, it was impossible to measure which slits they went through at the same time as measuring the interference pattern. You either measured one or the other. 
+This is also another example of complementarity in quantum mechanics. You should remember that when we discussed photons, it was impossible to measure which slits they went through at the same time as measuring the interference pattern. You either measured one or the other. 
 
 We have a similar situation here, we cannot measure position and momentum at the same time. If we know the position, the uncertainty <lrn-math>\Delta x</lrn-math> will be very small, the wavepacket will be very localized but then the uncertainty on momentum will be very large and the speed will be unknown. 
 

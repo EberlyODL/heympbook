@@ -15,9 +15,9 @@ It is true that the government was lying. It was covering up a secret program ca
 
 From your readings, try to answer the following questions.
 
-<iframe src="https://h5p.org/h5p/embed/81014" width="1091" height="375" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5169|entity_type=node|render=display_mode|display_mode=h5p]
 
-<iframe src="https://h5p.org/h5p/embed/81016" width="1091" height="375" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5170|entity_type=node|render=display_mode|display_mode=h5p]
  
 [ciscode|rev=1|tool=elmsmedia|item=2108|entity_type=node|render=display_mode|display_mode=image__left]
 
@@ -25,7 +25,7 @@ From your readings, try to answer the following questions.
 
 One way to see that waves bend on the slow side is to imagine that a wave is just a marching band with each row of the band representing a crest of the wave. As the band marches, all members in a given crest try to stay in line. If one side slows down, the other side will need to turn in order to keep a straight line.
 
-## SOFAR 
+## SOFAR
 
 As we saw, the speed of sound is determined by the speed of molecules or atoms in the medium. In a liquid or gas, there can be two competing effects to change the speed of sound:
 
@@ -42,7 +42,7 @@ This is the sound channel in the ocean. Sound tends to get focused and trapped i
 
 A similar sound channel exists in the atmosphere. At high enough altitude, the temperature of the air in the atmosphere goes up because it is heated by the sun's rays. The pressure on the other hand goes down the higher you go. This competition creates a sound channel in the atmosphere where there is a minimum in the speed of sound.
 
-### Project Mogul 
+### Project Mogul
 
 The answer to Roswell (at least if you want to believe the most recent explanation) is that the 1947 flying saucer was really a big disk microphone (like Gandhi is using below circa 1940 but bigger). This was the "flying disk" and it was flying high up in the atmosphere since it was stationed in the sound channel in the hope of detecting Russia's nuclear tests. This was a top secret program and it worked with the US detecting the first of Russia's nuclear tests in 1949.
 

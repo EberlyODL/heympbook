@@ -20,7 +20,7 @@ This means that the wavelength is inversely related to its momentum. We call thi
 
 For a massless particle like the photon we have that <lrn-math>E=pc</lrn-math> and you can check (using that <lrn-math>c = \lambda f</lrn-math>) that the de Broglie relationship ends up being <lrn-math>E=hf</lrn-math>. But for massive particles the momentum is <lrn-math> p= mv</lrn-math> (at "low" speed with respect to _c_). The de Broglie wavelength is then
 
-<lrn-math> \lambda = \frac{h}{mv}</lrn-math>
+<lrn-math>\lambda = \frac{h}{mv}</lrn-math>
 
 The important thing to understand here is that the more massive the object, the smaller the wavelength.
 

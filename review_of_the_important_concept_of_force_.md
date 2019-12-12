@@ -23,7 +23,7 @@ Newton's law is really a statement about the total force.
 
 when you push the box on the floor, you exert a push on the box <lrn-math>F_{push}</lrn-math> but the floor also exerts a force on the box because of friction <lrn-math>F_{friction}</lrn-math>. Since we are told the box is moving at constant velocity, we must have that the change of momentum is zero.
 
-<lrn-math>\Delta p </lrn-math> =0
+<lrn-math>\Delta p</lrn-math> =0
 
 and therefore, the net or total force must be zero
 

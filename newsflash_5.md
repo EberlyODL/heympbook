@@ -1,4 +1,4 @@
-- <a href="http://www.scientificamerican.com/article.cfm?id=2003-blackout-five-years-later" target="_blank">The cause of the blackout</a>
+- <a href="https://www.scientificamerican.com/article/2003-blackout-five-years-later/" target="_blank">The cause of the blackout</a>
 
 ## The Electric Grid.
 
@@ -19,4 +19,4 @@ Almost, sometimes it fails, like in 2003. We are not very good at storing electr
 
 Before we continue our exploration of electricity, can you answer the following question?
 
-<iframe src="https://h5p.org/h5p/embed/84226" width="1090" height="498" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5181|entity_type=node|render=display_mode|display_mode=h5p]

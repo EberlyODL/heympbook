@@ -4,9 +4,9 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 * LONrgM08: calculate the momentum of a particle in one dimension with appropriate care for direction.
 
-* LONrgM09: apply the principle of conservation of momentum to collisions and explosions in one dimension.
+* LONrgM09: apply the principle of conservation of momentum to collisions and explosions in one dimension
 
-* LOPW02: note the similarities between various wave phenomena such as sound and light. 
+* LOPW02: note the similarities between various wave phenomena such as sound and light.
 
 * LOPW03: employ correctly the relation between wavelength, frequency and speed of a wave.
 
@@ -17,5 +17,5 @@ The objectives for this lesson are that by the end of the week you will be able 
 
 ## News Article
 
--<a href="http://www.angelfire.com/indie/anna_jones1/daily_record.html" target="_blank">Roswell 1947</a> 
+-<a href="http://www.angelfire.com/indie/anna_jones1/daily_record.html" target="_blank">Roswell 1947</a>
  * nice old interesting news item. The physics behind the flying saucer in New-Mexico!

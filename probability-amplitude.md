@@ -1,6 +1,6 @@
 The wave that is "linked" to the photon is the electromagnetic wave which is a fairly complicated object with oscillating electric and magnetic fields. A full analysis is very technical. We can understand the concepts of quantum mechanics by using a simplified picture for the wave. 
 
-Let us denote the photon wave by a function called <lrn-math>\phi(x)</lrn-math> where <lrn-math>\phi</lrn-math> represents the amplitude of the wave and x is the position on the screen. The amplitude of the wave will vary for different position so we say <lrn-math>\phi</lrn-math> is a function of <lrn-math>x</lrn-math> or <lrn-math>\phi(x)</lrn-math>. Let us imagine that the wave oscillates between 1 and -1. 
+Let us denote the photon wave by a function called<lrn-math>\phi(x)</lrn-math> where <lrn-math>\phi</lrn-math> represents the amplitude of the wave and x is the position on the screen. The amplitude of the wave will vary for different position so we say <lrn-math>\phi</lrn-math> is a function of <lrn-math>x</lrn-math> or <lrn-math>\phi(x)</lrn-math>. Let us imagine that the wave oscillates between 1 and -1. 
 
 > Recall, a wave oscillates in space (with a certain wavelength) and it oscillates also in time (with a certain frequency). In practice, the oscillation in time are so fast that we always detect average quantity. Therefore, we will only keep track of variation in space. 
 
@@ -32,7 +32,8 @@ The probability of finding a photon at x is the square of <lrn-math>\phi(x)</lrn
 
 ## Classical Probability versus Quantum probability
 
-We can now see the first really strange thing about quantum mechanics. Let us say that we want to know the probability of photons landing at a position <lrn-math>x</lrn-math> where <lrn-math>\phi_1 = \frac{1}{\sqrt{4}}</lrn-math> and <lrn-math>\phi_2=- \frac{1}{\sqrt{4}}</lrn-math>. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a trough. 
+We can now see the first really strange thing about quantum mechanics. Let us say that we want to know the probability of photons landing at a position <lrn-math>x</lrn-math> where <lrn-math>\phi_1 = \frac{1}{\sqrt{4}}</lrn-math> and <lrn-math>\phi_2=-
+\frac{1}{\sqrt{4}}</lrn-math>. The two wave amplitudes are different because the waves travel different distances. The negative sign means that wave 2 is in a trough. 
 
 If only slit 1 is opened. The probability of finding a photon at x would be 1/4. 
 

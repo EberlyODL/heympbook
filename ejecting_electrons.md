@@ -1,4 +1,4 @@
-The standard way to create the "cathode rays" (the beam of electrons) in a Crookes tube is to use a large battery with a large voltage between cathode and anode. Even though the cathode and anode don't touch, the voltage is so high that electrons jump out of the cathode and fly toward the anode.
+The standard way to create the "cathode rays" (the beam of electrons) in a Crooke's tube is to use a large battery with a large voltage between cathode and anode. Even though the cathode and anode don't touch, the voltage is so high that electrons jump out of the cathode and fly toward the anode.
 
 Another way to create a current is to have zero (or small) voltage but to warm up the cathode. If you put the cathode under a flame, it will warm up and the kinetic energy of all the electrons inside of the cathode will slowly increase until some electrons moves so fast that they can escape the metal. Some of these electrons will land on the anode and we then detect an electric current.
 

@@ -1,7 +1,7 @@
+Week 9 Summary:
 
-
-- The Crookes tube is a vacuum tube with an anode and a cathode. The green beam was later identified to be electrons by Thomson.
-- Experiment with Crookes tube led to the discovery of X-rays.
+- The Crooke's tube is a vacuum tube with an anode and a cathode. The green beam was later identified to be electrons by Thomson.
+- Experiment with Crooke's tube led to the discovery of X-rays.
 - The total energy of an electron is its kinetic energy K plus its potential energy U.
 - On a potential energy graph, the turning points are where the energy is all potential with no kinetic (speed=0).
 - Solar cell technology is based on the photovoltaic (or photoelectric, essentially the same thing) effect in which light is absorbed by electrons which then create a current.
