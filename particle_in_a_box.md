@@ -6,7 +6,7 @@ The same story repeats itself for the electron, or any other particles for that 
 
 The subject of quantum mechanics is partly about finding the wavefunction <lrn-math>\psi(x)</lrn-math> for a given system. Once we know the wavefunction, we can tell the probability of finding the particle here or there. This is not as hard as it sounds, since <lrn-math>\psi(x)</lrn-math> is a wave like any other wave. In particular, it can have standing wave patterns, which we have seen before.
 
-## An Electron in a Box 
+## An Electron in a Box
 
 Imagine that one single electron is stuck in a box. Inside the box, there is no electric field and no electric potential energy, but on the edge of the box there is a strong force that blocks the electron's way, just like a wall. We can represent this with a potential energy graph like Fig. "Electron Box".
 
@@ -24,7 +24,7 @@ Similarly, the only energy the electron has inside the box is kinetic energy <lr
 
 <lrn-math>E_n = n^2 E_1</lrn-math>
 
-In this equation <lrn-math>E_1</lrn-math> is a basic quantum of energy which depends on the size of the box, the mass of the particle, etc. The details we will not get into now. 
+In this equation <lrn-math>E_1</lrn-math> is a basic quantum of energy which depends on the size of the box, the mass of the particle, etc. The details we will not get into now.
 
 Let me summarize this again, since this is important:
 **By imposing a rule that the wave of the electron vanishes at some places (ie. it can't go outside the walls), we get standing wave patterns with different harmonic wavelengths. This implies that the momentum and energy of the electron are quantized. That means that not all values of E and p are possible. Only special values that are integer multiples (or integer squared) of a basic unit.**
@@ -37,9 +37,9 @@ Note that n=0 is NOT possible, since the electron would have zero energy and we 
 
 [ciscode|rev=1|tool=elmsmedia|item=2617|entity_type=node|render=display_mode|display_mode=image]
 
-[ciscode|rev=1|tool=elmsmedia|item=2618|entity_type=node|render=display_mode|display_mode=h5p]
+[ciscode|rev=1|tool=elmsmedia|item=5126|entity_type=node|render=display_mode|display_mode=h5p]
 
-## Finding the Electron in the Box 
+## Finding the Electron in the Box
 
 The different wavefunctions of the electrons contain a lot of information. By taking the square of the wave, i.e. by squaring the amplitude at each point, we get information as to where the electron will most probably be found or not.
 
@@ -47,7 +47,7 @@ Each standing wave has nodes where the amplitude is always zero. At those points
 
 [ciscode|rev=1|tool=elmsmedia|item=2620|entity_type=node|render=display_mode|display_mode=image]
 
-### External Resources 
+### External Resources
 
 - Nice video from [toutestquantique](http://www.toutestquantique.fr/#credits)
 

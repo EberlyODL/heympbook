@@ -2,11 +2,11 @@ Energy is not the only thing that is conserved in the world. There is another qu
 
 We use the letter  <lrn-math>p </lrn-math> to denote momentum. And just like energy, it is a law of physics that the **total momentum of a system is conserved.** Before we look at that statement in more details lets  examine the Newton's cradle again:
 
-[ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
+[ciscode|rev=1|tool=elmsmedia|item=2078|entity_type=node|render=display_mode|display_mode=image]
 
 Look closely at the collision. When a ball hits the stack, the ball at the other end picks up and continues the movement. It looks like something is transmitted. Well, there is something "transmitted" and it is not just energy. In this kind of collision, momentum is conserved and the ball at the other end has the same momentum as the ball that just hit had.
 
-So what is momentum? Fundamentally, momentum and energy are very related. We talked previously about how energy is the ability to make things move. Well, momentum is the ability to change the movement, the ability to provide an impulse to other objects. The more momentum, the bigger the impulse you can provide. What is happening in Newton's cradle is that each time there is a collision, an impulse is given to the other balls.
+So what is momentum? Fundamentally, momentum and energy are very related. We talked previously about how energy is the ability to make things move. Well, momentum is the movement of an object. Changing the movement, or changing the momentum in physics, is providing the object with an impulse. The more momentum, the bigger the impulse you can provide. What is happening in Newton's cradle is that each time there is a collision, there is a change in movement (change in momentum) and an impulse is given to the other balls.
 
 There is simple formula for momentum. It is just
 

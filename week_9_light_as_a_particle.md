@@ -12,5 +12,4 @@ By the end of the week you will be able to
 <a href="http://news.psu.edu/story/468625/2017/05/17/research/solar-power-people" target="_blank">Global Significance of Recent Progress in Solar Cell Technology</a>
 
 
-
 This week there will also be your second lab, on the photoelectric effect.

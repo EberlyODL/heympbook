@@ -1,12 +1,21 @@
 Summary from Galileo to Galaxies:
+
 - Free fall times are the same for different mass objects if drag can be neglected.
+
   - This is because mass also causes inertia and appears in the definition of momentum. So even though a more massive object feels a bigger gravitational force, it is also harder to make it move.
+
 - Newton's law of gravitation states that there is a universal attraction between every object with a mass. This force is proportional to the mass of each object and inversely proportional to the distance squared.
+
   - Near the surface of the Earth, the force of gravity is just <lrn-math>F = mg</lrn-math> with <lrn-math>g = 9.8 \; m/s^2</lrn-math>. This is called weight. It should not be confused with mass. Weight is a force and the unit is Newton or pounds. Mass is in kg.
+
 - Einstein's theory of General Relativity eventually supplanted Newton's theory. The difference between the two theories is very small in our daily life but Einstein's theory does predict a few qualitatively new phenomena 
+
   - It predicts that light should also be affected by gravity. This has been verified experimentally.
+
   - It predicts the existence of black holes. We now have pretty good evidence that there is a black hole in the center of the Milky Way.
+
   - It predicts gravitational waves: ripples in spacetime. These have been found experimentally using LIGO.
+
 - Orbits can be explained with Newton's theory. The velocity to stay in orbit is
 
 <lrn-math>v^2 = \frac{GM}{r}</lrn-math>

@@ -1,9 +1,9 @@
 Let us practice the use of the potential energy graph.
 
-<iframe src="https://h5p.org/h5p/embed/86028" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5187|entity_type=node|render=display_mode|display_mode=h5p]
 
 For a little more practice and review of Kinetic Energy try this question:
-<iframe src="https://h5p.org/h5p/embed/104438" width="1090" height="626" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5188|entity_type=node|render=display_mode|display_mode=h5p]
 
 The energy graph will be immensely useful as we talk about the behavior of electrons and protons in the next three weeks.
 
@@ -31,15 +31,15 @@ By turning a potential (a Voltage), it is as if we were setting up a slope, as i
 
 [ciscode|rev=1|tool=elmsmedia|item=2219|entity_type=node|render=display_mode|display_mode=image__right]
 
-<iframe src="https://h5p.org/h5p/embed/104515" width="1090" height="623" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5153|entity_type=node|render=display_mode|display_mode=h5p]
 
 In the experiment, we can adjust the potential on the battery just to the point where there is no more current. When current = zero, we have found the spot where kinetic energy is equal to potential energy on top of the slope! We call this critical value of voltage, **the stopping potential.**
 
 <lrn-math>K = U = e V_{stop}</lrn-math>
 
-where e is the charge of the electron. The stopping potential is the minimum voltage needed to stop the electrons (higher voltage just make the electron stop and turn earlier than the anode). 
+where e is the charge of the electron. The stopping potential is the minimum voltage needed to stop the electrons (higher voltage just make the electron stop and turn earlier than the anode).
 
-> The stopping potential is the minimum energy to stop and it thus equal to kinetic energy of the ejected electrons. 
+> The stopping potential is the minimum energy to stop and it thus equal to kinetic energy of the ejected electrons.
 
 ## A new unit of energy: the electron-volt.
 

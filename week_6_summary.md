@@ -1,3 +1,4 @@
+## Summary:
 The four fundamental forces of Nature are:
 
 1. Gravity
@@ -13,4 +14,4 @@ Newton's laws in terms of momentum:
 
 A constant force F applied over an interval of time <lrn-math>(\Delta t)</lrn-math> changes the momentum by the amount   
   <lrn-math>F\Delta t = \Delta p</lrn-math>
-  
+ 

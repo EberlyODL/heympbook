@@ -1,23 +1,23 @@
-Einstein's Explanation. 
+Einstein's Explanation.
 ------------------------
 
-In 1905, Einstein had a very productive year.  It is often referred to as the 
+In 1905, Einstein had a very productive year.  It is often referred to as the
 <a href="http://en.wikipedia.org/wiki/Annus_Mirabilis_papers" target="_blank">Annus Mirabilis</a>. He was 26 years old and in that year, he published the following four papers:
 
 1. **Photoelectric Effect**: "_On a Heuristic Viewpoint Concerning the Production and Transformation of Light_" <a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_132-148.pdf" target="_blank">Original</a> and <a href="https://en.wikisource.org/?curid=59468" target="_blank">Translated</a>
 This is this week's subject of study. This is the work for which Einstein won the Nobel Prize.
 
-2. **Brownian Motion**: _"On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat._" 
-<a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_549-560.pdf" target="_blank">Original</a> and 
+2. **Brownian Motion**: _"On the Motion of Small Particles Suspended in a Stationary Liquid, as Required by the Molecular Kinetic Theory of Heat._"
+<a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_17_549-560.pdf" target="_blank">Original</a> and
 <a href="http://users.physik.fu-berlin.de/~kleinert/files/eins_brownian.pdf" target="_blank">Translated</a>
  This paper on Brownian motion was the final proof for atoms (revisit week 1) and started the field of physics known as statistical mechanics.
  
-3. **Special Relativity**: "_On the Electrodynamics of Moving Bodies,_" 
+3. **Special Relativity**: "_On the Electrodynamics of Moving Bodies,_"
 <a href="http://wikilivres.ca/wiki/Zur_Elektrodynamik_bewegter_K%C3%B6rper" target="_blank">Original</a> and
 <a href="http://www.fourmilab.ch/etexts/einstein/specrel/www/" target="_blank">Translated</a>
  In this paper, Einstein extended the principle of relativity to include electrodynamics and showed that the speed of light was constant in all reference frames.
 
-4.  **Energy Mass Equivalence**: "_Does the Inertia of a Body Depend Upon Its Energy Content?_" 
+4.  **Energy Mass Equivalence**: "_Does the Inertia of a Body Depend Upon Its Energy Content?_"
 <a href="http://www.physik.uni-augsburg.de/annalen/history/einstein-papers/1905_18_639-641.pdf" target="_blank">Original</a> and
 <a href="http://www.fourmilab.ch/etexts/einstein/E_mc2/www/" target="_blank">Translated</a>
 This was a direct consequence of the previous paper. He showed, among other things, that <lrn-math>E = mc^2</lrn-math>.
@@ -47,10 +47,8 @@ Einstein's equation <lrn-math>E = hf </lrn-math> is super simple and super impor
 Let's see how this could work. Imagine that the electrons in a metal like zinc are in a potential well (like a pool) that is 3 eV (3 electron volts) in depth.
 
 [ciscode|rev=1|tool=elmsmedia|item=2226|entity_type=node|render=display_mode|display_mode=image]
-<iframe src="https://h5p.org/h5p/embed/126551" width="1090" height="353" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
-<iframe src="https://h5p.org/h5p/embed/126553" width="1090" height="348" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5149|entity_type=node|render=display_mode|display_mode=h5p]
+[ciscode|rev=1|tool=elmsmedia|item=5150|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 Video: The video below relates the "wave" properties of light to the photon energy to tie it all together.

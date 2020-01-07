@@ -1,10 +1,10 @@
 The discovery of the electromagnetic wave by James Clerk Maxwell in 1861 cannot be overstated as an achievement in humankind's search for answers. In one stroke, Maxwell finalized our understanding of the electromagnetic theory, set the stage for Einstein to discover relativity, and discovered that the speed of the electromagnetic wave was exactly the speed of light, leading to the obvious connection that light itself is an electromagnetic wave.
 
-## One Wave with Many Names 
+## One Wave with Many Names
 
 Creating an electromagnetic wave is fairly easy, you just shake back and forth some electrons (this is what an antenna does). If you shake faster, you will generate a higher frequency wave.
 
-<iframe src="https://h5p.org/h5p/embed/85365" width="1090" height="466" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5183|entity_type=node|render=display_mode|display_mode=h5p]
 
 In a radio antenna, we shake the electron at a frequency of <lrn-math>10^4</lrn-math> Hz. This is 10,000 cycles per second! And this is the low frequency range! If you shake the electron with a frequency of <lrn-math>10^{12}</lrn-math> Hz, you will get infrared light while <lrn-math>10^{15}</lrn-math> Hz is the frequency of visible light.
 
@@ -14,7 +14,7 @@ For each corresponding frequency, we can find the corresponding wavelength <lrn-
 (http://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg, Creative Commons Attribution-Share Alike 3.0 Unported license.)
 
 
-The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave. 
+The figure show a range of frequency for electromagnetic waves. A small fraction of these frequencies is visible light. Other frequencies corresponds to waves which have different names like radio or microwave.
 
 The important thing to remember is that all of these seemingly different waves are really just one and the same type: the electromagnetic (E&M) wave.
 

@@ -10,7 +10,7 @@ In addition to these basic laws, we have seen that particle/waves interact with 
 
 The four forces of Nature are
 
-1. Electromagnetism.
+1. Electromagnetism (holds molecules together, responsible for electricity)
 2. Weak Nuclear force, responsible for the Beta decay. (We did not discuss this force in this class.)
 3. Strong Nuclear force, which holds the protons and neutrons together. It leads to alpha and gamma radiation, and nuclear fusion/fission.
 4. Gravity. The subject of this week.

@@ -7,7 +7,7 @@
 
 First, let's start with the old notion of relativity that Galileo and Newton came up with a long time ago.
 
-<iframe src="https://h5p.org/h5p/embed/82389" width="1090" height="481" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5177|entity_type=node|render=display_mode|display_mode=h5p]
 
 These observations lead Galileo and Newton to formulate the principle of relativity.
 
@@ -25,7 +25,7 @@ We will discuss the theory of electricity later on, but, for now, there is only 
 
 <lrn-math> c = 299,792,458 \; m/s</lrn-math>, the speed of light.
 
-> the symbol "c" always means the speed of light (in a vacuum). 
+> the symbol "c" always means the speed of light (in a vacuum).
 
 - S: I do not see what is so strange here? Beside the fact that I don't see what light and electricity have to do with each other.
 - M: What is strange is that for the first time, a fundamental law of Nature was telling us specifically the speed of a wave. The speed was not an arbitrary derived quantity, it was right there in the equations.

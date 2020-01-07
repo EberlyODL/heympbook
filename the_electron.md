@@ -39,6 +39,6 @@ By doing experiments we determined the following properties of the electric forc
 
 In the video below, you can see static electricity in real life. The person reacts very calmly (and correctly) when sparks from static electricity light the gas on fire!
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/tuZxFL9cGkI?rel=0" width="420"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFbqCtaHtxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  > Note that the spark that caused the fire occurred after she sat in her car - some charges probably transferred between her shirt & her car seat when she exited her car again. A spark then occurs just when she touches the nozzle. This is very rare but do be careful! If you have a lot of static electricity touch your hand to something metal to discharge yourself before touching the gas nozzle.)

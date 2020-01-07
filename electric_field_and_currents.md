@@ -1,17 +1,24 @@
 To find the electric force felt by an object with some electric charge q (positive or negative), we just do the following:
 
-* we look at what the value and direction of the electric field is where the charge q is 
-* we multiply the electric field (E, do not confuse with energy!) by the charge q. 
+* we look at what the value and direction of the electric field is where the charge q is
+* we multiply the electric field (E, do not confuse with energy!) by the charge q.
 
 <lrn-math>F = q E</lrn-math>
 
-> If the charge is positive <lrn-math>q>0</lrn-math>, the force and electric field are in the same direction. If E is positive (right) than F = qE will also be positive (right). But if the electric charge is negative <lrn-math>q<0</lrn-math>, the force will be in the opposite direction as the electric field. This is why electricity can be both attractive or repulsive. 
+>> If the charge is positive <lrn-math>q>0</lrn-math>, the force and electric field are in the same direction. If E is positive (right) than F = qE will also be positive (right). But if the electric charge is negative <lrn-math>q<0</lrn-math>, the force will be in the opposite direction as the electric field. This is why electricity can be both attractive or repulsive.
 
-> Note that the electric field that the charge q feels, is not the electric field created by q - it is caused by other charges! A charge can not feel its own electric field, only the field caused by other charges. This is the same for forces - an object can only feel a force acting on it due to other objects pushing or pulling it.
+Here is the electric field simulation again. This time use it to look at forces. The sensor is actually a positive charge. The arrow shows the strength of the force it feels. (If you put a charge on the screen and a sensor, how does the force does the charge feel  compare to the force the sensor feels?)
 
-<iframe src="https://h5p.org/h5p/embed/84196" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-  
-> Even though the proton and electron have very different masses (by a factor of a thousand), the magnitude of their electric charge is the same at <lrn-math>e = \pm 1.602\times10^{-19}</lrn-math> C. They usually feel the same magnitude of the electric force but in different directions. 
+<iframe src="https://phet.colorado.edu/sims/html/charges-and-fields/latest/charges-and-fields_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+>> Note that the electric field that the charge q feels, is not the electric field created by q - it is caused by other charges! A charge can not feel its own electric field, only the field caused by other charges. This is the same for forces - an object can only feel a force acting on it due to other objects pushing or pulling it.
+
+Here is a question to test your understanding:
+
+[ciscode|rev=1|tool=elmsmedia|item=5179|entity_type=node|render=display_mode|display_mode=h5p]
+
+
+> Even though the proton and electron have very different masses (by a factor of a thousand), the magnitude of their electric charge is the same at <lrn-math>e = \pm 1.602\times10^{-19}</lrn-math> C. They usually feel the same magnitude of the electric force but in different directions.
 
 ## Circuits
 

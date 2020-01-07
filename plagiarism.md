@@ -6,29 +6,29 @@ Of course all the academic integrity principles are important (like cheating) bu
 
 ### Examples of Plagiarism
 
-Let's first start with some example of plagiarism:
+Lets first start with some example of plagiarism
 
-1. Submit a paper for grading that you did not write yourself.
-2. Copy answers or text from a colleague and submit is as your own.
-3. Quote or paraphrase from another paper without giving credit to the author.
-4. Cite data without giving credit to the original source.
-5. Propose someone else’s idea as if it were yours.
-6. Fabricate or use incorrect references.
-7. Submit another person’s presentation, program or spreadsheet with only small changes.
+1. Submit a paper for grading that you did not write yourself
+2. Copy answers or text from a colleague and submit is as your own
+3. Quote or paraphrase from another paper without giving credit to the author
+4. Cite data without giving credit to the original source
+5. Propose someone else’s idea as if it were yours
+6. Fabricate or use incorrect references
+7. Submit another’s presentation, program or spreadsheet with only small changes
 
 These are pretty clear cut violations of Penn State academic principles. What about the following case?
 
 ### Carelessness Case Study
 
-<iframe src="https://h5p.org/h5p/embed/74906" width="1090" height="484" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+[ciscode|rev=1|tool=elmsmedia|item=5155|entity_type=node|render=display_mode|display_mode=h5p]
  
-**How to avoid this.** Be careful with how you take notes - avoid typing while reading. The best way to know you are writing with your own words is to close your source (book, browser, etc) while writing the notes. 
+**How to avoid this.** Be careful with how you take notes - avoid typing while reading. The best way to know you are writing with your own words is to close your source (book, browser, etc) while writing the notes.
 
 ### Consequences of Plagiarism
 
-In the real world, you can get sued, lose your job or lose your reputation. You can find on this Wikipedia [page](http://en.wikipedia.org/wiki/Plagiarism#Common_forms_of_student_plagiarism) some examples of plagiarism.
+In the real world, you can get sued, lose your job or lose your reputation. You can find on this Wikipedia [page](https://en.wikipedia.org/wiki/List_of_scientific_misconduct_incidents) many famous examples of plagiarism with very often dire consequences for the person who did it.
 
-For students at Penn State, **plagiarism will** result sanctions. For more on academic integrity see http://science.psu.edu/current-students/Integrity/Policy.html 
+For students at Penn State, **plagiarism will** result sanctions. For more on academic integrity see https://science.psu.edu/current-students/integrity/policies
 
 ### External Resources
 
