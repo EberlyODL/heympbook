@@ -8,7 +8,7 @@ Well, nothing is special about light. Every particle in the world is a "particle
 - S:. You mean that all the air molecules that are bouncin against me ensure that I behave like a particle?
 - M: This is part of the reason. There is also the fact that the wave for massive objects has a very, very small wavelength. Lets talk about this in detail:
 
-For light the relationship between a particle and the wave is explained by fact that the energy of the light-particle is directly related to the frequency of the light-wave. 
+For light the relationship between a particle and the wave is explained by fact that the energy of the light-particle is directly related to the frequency of the light-wave.
 
 <lrn-math>E = hf</lrn-math>
 
@@ -22,9 +22,9 @@ For a massless particle like the photon we have that <lrn-math>E=pc</lrn-math> a
 
 <lrn-math>\lambda = \frac{h}{mv}</lrn-math>
 
-The important thing to understand here is that the more massive the object, the smaller the wavelength.
+The important thing to understand here is that the more massive the object, the smaller the wavelength (for a given speed).
 
-## Showing that the Electron is a "Particle Wave" 
+## Showing that the Electron is a "Particle Wave"
 
 If you send a beam of electron through a small single slit, you will get a diffraction pattern that closely resembles what you get when you shine a laser through a small hole.
 
@@ -32,7 +32,7 @@ These dark and bright fringes are the same kind of interference that we use to p
 
 [ciscode|rev=1|tool=elmsmedia|item=2253|entity_type=node|render=display_mode|display_mode=image__boxed__right__lightboxed]
 
-## Contrast between an electron and the photon. 
+## Contrast between an electron and the photon.
 
 **1. Electrons**
 
@@ -42,13 +42,13 @@ The relation between the wave and the particle is the de Broglie relation which 
 
 <lrn-math>\lambda = h/p</lrn-math>
 
-with _h_ being Planck's constant. 
+with _h_ being Planck's constant.
 
 **2. Photons**
 
 The photon is a particle with no mass but it still has energy and momentum related by <lrn-math>E=pc</lrn-math>. There is a wave associated with the photon. We know what that wave is. It is the electromagnetic wave. The amplitude squared of the E&M wave tells us the probability of finding the photons in a region of space.
 
-The relation between the wave and the particle is either de Broglie relation which tell us that the wavelength of the wave <lrn-math>\lambda</lrn-math> is inversely proportional to the momentum of the particle. 
+The relation between the wave and the particle is either de Broglie relation which tell us that the wavelength of the wave <lrn-math>\lambda</lrn-math> is inversely proportional to the momentum of the particle.
 
 <lrn-math>\lambda = h/p</lrn-math>
 
